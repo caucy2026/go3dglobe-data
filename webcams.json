@@ -1776,31 +1776,5 @@
     "width": 1280,
     "height": 720,
     "num": 1
-  },
-  {
-    "id": "test-nz-mtcook",
-    "name": "🏔️ TEST · 库克山国家公园",
-    "city": "Mount Cook",
-    "country": "NZ",
-    "lat": -43.7,
-    "lng": 170.1,
-    "url": "https://images.webcamgalore.com/35572-current-webcam-Mount-Cook.jpg",
-    "refreshSec": 15,
-    "num": 99,
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "id": "test-hk-oceanpark",
-    "name": "🐠 TEST · 海洋公园",
-    "city": "Hong Kong",
-    "country": "HK",
-    "lat": 22.25,
-    "lng": 114.2,
-    "url": "https://images.webcamgalore.com/35573-current-webcam-Hong-Kong.jpg",
-    "refreshSec": 15,
-    "num": 99,
-    "width": 1280,
-    "height": 720
   }
 ]
