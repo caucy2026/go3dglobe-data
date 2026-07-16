@@ -234,19 +234,6 @@
     "height": 1080
   },
   {
-    "id": "no-fjord",
-    "name": "🏔️ 挪威 · 峡湾",
-    "city": "Brekke",
-    "country": "NO",
-    "lat": 61.0,
-    "lng": 5.5,
-    "url": "https://www.yr.no/webcams/1/2000/ortneset/1.jpg",
-    "refreshSec": 20,
-    "num": 1,
-    "width": 1280,
-    "height": 720
-  },
-  {
     "id": "no-arctic",
     "name": "❄️ 挪威 · 北极圈",
     "city": "Setermoen",
