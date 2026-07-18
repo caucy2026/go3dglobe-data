@@ -541,20 +541,6 @@
     "num": 41
   },
   {
-    "id": "cn-yunhe3",
-    "name": "🌄 云和 · 风光3号机",
-    "city": "云和",
-    "country": "CN",
-    "lat": 27.81,
-    "lng": 119.57,
-    "url": "https://l.cztvcloud.com/channels/lantian/SXyunhe3/720p.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 42
-  },
-  {
     "id": "cn-xiaoshan1",
     "name": "🌉 萧山 · 城市风光",
     "city": "萧山",
@@ -566,7 +552,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 43
+    "num": 42
   },
   {
     "id": "cn-pinghu1",
@@ -580,21 +566,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 44
-  },
-  {
-    "id": "cn-pinghu4",
-    "name": "🌊 平湖 · 风光4号机",
-    "city": "平湖",
-    "country": "CN",
-    "lat": 30.68,
-    "lng": 120.72,
-    "url": "https://l.cztvcloud.com/channels/lantian/SXpinghu4/720p.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 45
+    "num": 43
   },
   {
     "id": "cn-cgtn",
@@ -608,7 +580,7 @@
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "num": 46
+    "num": 44
   },
   {
     "id": "cn-zhangjiajie",
@@ -622,7 +594,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "jpeg",
-    "num": 47
+    "num": 45
   },
   {
     "id": "cn-chengde",
@@ -635,7 +607,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 48
+    "num": 46
   },
   {
     "id": "cn-fenghuang",
@@ -648,7 +620,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 49
+    "num": 47
   },
   {
     "id": "cn-shangyu",
@@ -662,36 +634,8 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 50,
+    "num": 48,
     "live": true
-  },
-  {
-    "id": "cn-shangyu2",
-    "name": "🏙️ 上虞 · 风光2号机",
-    "city": "上虞",
-    "country": "CN",
-    "lat": 30.03,
-    "lng": 121.2,
-    "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 51
-  },
-  {
-    "id": "cn-shangyu3",
-    "name": "🏙️ 上虞 · 风光3号机",
-    "city": "上虞",
-    "country": "CN",
-    "lat": 30.33,
-    "lng": 121.04,
-    "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 52
   },
   {
     "id": "cn-banquiao",
@@ -704,7 +648,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 53
+    "num": 49
   },
   {
     "id": "cn-dunhuang",
@@ -717,7 +661,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 54
+    "num": 50
   },
   {
     "id": "cn-shengzhou",
@@ -731,7 +675,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 55
+    "num": 51
   },
   {
     "id": "cn-jinyun1",
@@ -745,35 +689,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 56
-  },
-  {
-    "id": "cn-jinyun2",
-    "name": "🏞️ 缙云 · 风光2号机",
-    "city": "缙云",
-    "country": "CN",
-    "lat": 28.66,
-    "lng": 120.42,
-    "url": "https://l.cztvcloud.com/channels/lantian/SXjinyun2/720p.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 57
-  },
-  {
-    "id": "cn-jinyun3",
-    "name": "🏞️ 缙云 · 风光3号机",
-    "city": "缙云",
-    "country": "CN",
-    "lat": 28.94,
-    "lng": 120.09,
-    "url": "https://l.cztvcloud.com/channels/lantian/SXjinyun3/720p.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 58
+    "num": 52
   },
   {
     "id": "cn-zhuji",
@@ -787,7 +703,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 59
+    "num": 53
   },
   {
     "id": "cn-qingtian",
@@ -801,7 +717,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 60
+    "num": 54
   },
   {
     "id": "cn-longyou1",
@@ -815,21 +731,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 61
-  },
-  {
-    "id": "cn-longyou2",
-    "name": "🏞️ 龙游 · 风光2号机",
-    "city": "龙游",
-    "country": "CN",
-    "lat": 29.03,
-    "lng": 118.84,
-    "url": "https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 62
+    "num": 55
   },
   {
     "id": "cn-songyang",
@@ -843,7 +745,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 63
+    "num": 56
   },
   {
     "id": "cn-beijing",
@@ -856,7 +758,7 @@
     "refreshSec": 15,
     "width": 4406,
     "height": 3264,
-    "num": 64
+    "num": 57
   },
   {
     "id": "cn-gubeikou",
@@ -869,7 +771,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 65
+    "num": 58
   },
   {
     "id": "cn-chengdu",
@@ -882,7 +784,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 66
+    "num": 59
   },
   {
     "id": "cn-cctv1",
@@ -896,7 +798,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 67
+    "num": 60
   },
   {
     "id": "cn-cctv15-1080p",
@@ -910,7 +812,7 @@
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "num": 68
+    "num": 61
   },
   {
     "id": "cn-cctv9",
@@ -924,7 +826,7 @@
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "num": 69
+    "num": 62
   },
   {
     "id": "cn-cndfilm",
@@ -938,7 +840,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 70
+    "num": 63
   },
   {
     "id": "cn-guangzhou",
@@ -952,7 +854,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 71
+    "num": 64
   },
   {
     "id": "cn-hunan",
@@ -966,7 +868,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 72
+    "num": 65
   },
   {
     "id": "cz-prague",
@@ -979,7 +881,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 73
+    "num": 66
   },
   {
     "id": "de-dasding",
@@ -993,7 +895,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 74
+    "num": 67
   },
   {
     "id": "de-ahlbeck-usedom",
@@ -1006,7 +908,7 @@
     "refreshSec": 15,
     "width": 2048,
     "height": 1536,
-    "num": 75
+    "num": 68
   },
   {
     "id": "dk-fanoe",
@@ -1019,7 +921,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 76
+    "num": 69
   },
   {
     "id": "do-acntv",
@@ -1033,7 +935,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 77,
+    "num": 70,
     "live": true
   },
   {
@@ -1047,7 +949,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 78
+    "num": 71
   },
   {
     "id": "es-3catbeauties",
@@ -1061,7 +963,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 79,
+    "num": 72,
     "live": true
   },
   {
@@ -1073,7 +975,7 @@
     "lng": 2.17,
     "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
     "refreshSec": 0,
-    "num": 80,
+    "num": 73,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -1088,7 +990,7 @@
     "lng": 22.29,
     "url": "https://weathercam.digitraffic.fi/C0252001.jpg",
     "refreshSec": 10,
-    "num": 81,
+    "num": 74,
     "width": 1280,
     "height": 720
   },
@@ -1101,7 +1003,7 @@
     "lng": 24.948,
     "url": "https://weathercam.digitraffic.fi/C0151301.jpg",
     "refreshSec": 10,
-    "num": 82,
+    "num": 75,
     "width": 1280,
     "height": 720
   },
@@ -1116,7 +1018,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 83
+    "num": 76
   },
   {
     "id": "fr-ajaccio-corsica",
@@ -1129,7 +1031,7 @@
     "refreshSec": 15,
     "width": 3072,
     "height": 1728,
-    "num": 84
+    "num": 77
   },
   {
     "id": "fr-bfmbusiness",
@@ -1143,7 +1045,7 @@
     "refreshSec": 15,
     "width": 960,
     "height": 540,
-    "num": 85
+    "num": 78
   },
   {
     "id": "fr-euronews",
@@ -1157,7 +1059,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 86
+    "num": 79
   },
   {
     "id": "fr-france24ar",
@@ -1171,7 +1073,7 @@
     "refreshSec": 15,
     "width": 640,
     "height": 360,
-    "num": 87
+    "num": 80
   },
   {
     "id": "gb-london",
@@ -1184,7 +1086,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 88
+    "num": 81
   },
   {
     "id": "gb-edinburgh",
@@ -1197,7 +1099,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 960,
-    "num": 89
+    "num": 82
   },
   {
     "id": "gb-92news",
@@ -1211,7 +1113,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 90,
+    "num": 83,
     "live": true
   },
   {
@@ -1225,7 +1127,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 91
+    "num": 84
   },
   {
     "id": "gl-ilulissat",
@@ -1238,7 +1140,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 92
+    "num": 85
   },
   {
     "id": "gl-kangerlussuaq",
@@ -1251,7 +1153,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 93
+    "num": 86
   },
   {
     "id": "gl-kulusuk",
@@ -1264,7 +1166,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 94
+    "num": 87
   },
   {
     "id": "gr-santorini",
@@ -1277,7 +1179,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 95
+    "num": 88
   },
   {
     "id": "gt-guatemala-city",
@@ -1290,7 +1192,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 96
+    "num": 89
   },
   {
     "id": "cn-saikung",
@@ -1303,7 +1205,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 97
+    "num": 90
   },
   {
     "id": "cn-hk-airport",
@@ -1316,7 +1218,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 98
+    "num": 91
   },
   {
     "id": "cn-laufaushan",
@@ -1329,7 +1231,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 99
+    "num": 92
   },
   {
     "id": "cn-victoria-harbour",
@@ -1342,7 +1244,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 100
+    "num": 93
   },
   {
     "id": "cn-saiwanho",
@@ -1355,7 +1257,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 101
+    "num": 94
   },
   {
     "id": "cn-kadoorie",
@@ -1368,7 +1270,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 102
+    "num": 95
   },
   {
     "id": "cn-taipokau",
@@ -1381,7 +1283,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 103
+    "num": 96
   },
   {
     "id": "cn-clearbay",
@@ -1394,7 +1296,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 104
+    "num": 97
   },
   {
     "id": "cn-icc-se",
@@ -1407,7 +1309,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 105
+    "num": 98
   },
   {
     "id": "cn-icc-sw",
@@ -1420,7 +1322,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 106
+    "num": 99
   },
   {
     "id": "cn-kowloon-city",
@@ -1433,7 +1335,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 107
+    "num": 100
   },
   {
     "id": "cn-victoria-peak2",
@@ -1446,7 +1348,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 108
+    "num": 101
   },
   {
     "id": "cn-tsimshatsui",
@@ -1459,7 +1361,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 109
+    "num": 102
   },
   {
     "id": "cn-pengchau",
@@ -1472,7 +1374,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 110
+    "num": 103
   },
   {
     "id": "cn-cheungchau",
@@ -1485,7 +1387,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 111
+    "num": 104
   },
   {
     "id": "cn-sheungshui",
@@ -1498,7 +1400,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 112
+    "num": 105
   },
   {
     "id": "cn-breadtv",
@@ -1512,7 +1414,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 113
+    "num": 106
   },
   {
     "id": "cn-wetland",
@@ -1525,7 +1427,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 114
+    "num": 107
   },
   {
     "id": "hr-bale",
@@ -1538,7 +1440,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 115
+    "num": 108
   },
   {
     "id": "hu-oxygen",
@@ -1552,7 +1454,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 116,
+    "num": 109,
     "live": true
   },
   {
@@ -1566,7 +1468,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 117
+    "num": 110
   },
   {
     "id": "id-tangkubanperahu",
@@ -1579,7 +1481,7 @@
     "refreshSec": 15,
     "width": 2348,
     "height": 1920,
-    "num": 118
+    "num": 111
   },
   {
     "id": "ie-dublin",
@@ -1592,7 +1494,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 119
+    "num": 112
   },
   {
     "id": "in-bir",
@@ -1605,7 +1507,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 120
+    "num": 113
   },
   {
     "id": "in-abn-andhra",
@@ -1619,7 +1521,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 121,
+    "num": 114,
     "live": true
   },
   {
@@ -1631,7 +1533,7 @@
     "lng": 77.23,
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "refreshSec": 0,
-    "num": 122,
+    "num": 115,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -1649,7 +1551,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 123,
+    "num": 116,
     "live": true
   },
   {
@@ -1664,7 +1566,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 124,
+    "num": 117,
     "live": true
   },
   {
@@ -1678,7 +1580,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 125
+    "num": 118
   },
   {
     "id": "iq-aliraqia",
@@ -1692,7 +1594,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 126,
+    "num": 119,
     "live": true
   },
   {
@@ -1707,7 +1609,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 127,
+    "num": 120,
     "live": true
   },
   {
@@ -1722,7 +1624,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 128,
+    "num": 121,
     "live": true
   },
   {
@@ -1736,7 +1638,7 @@
     "refreshSec": 15,
     "width": 3072,
     "height": 1728,
-    "num": 129
+    "num": 122
   },
   {
     "id": "is-akureyri2",
@@ -1749,7 +1651,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 130
+    "num": 123
   },
   {
     "id": "it-abbadia-san-salvatore",
@@ -1762,7 +1664,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 131
+    "num": 124
   },
   {
     "id": "it-abetone",
@@ -1775,7 +1677,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 132
+    "num": 125
   },
   {
     "id": "jo-alsharqiya",
@@ -1789,7 +1691,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 133,
+    "num": 126,
     "live": true
   },
   {
@@ -1801,7 +1703,7 @@
     "lng": 130.56,
     "url": "https://images.webcamgalore.com/1069-current-webcam-Kagoshima.jpg",
     "refreshSec": 15,
-    "num": 134,
+    "num": 127,
     "width": 1920,
     "height": 1080
   },
@@ -1817,7 +1719,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 135
+    "num": 128
   },
   {
     "id": "jp-tbs",
@@ -1831,7 +1733,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 136,
+    "num": 129,
     "live": true
   },
   {
@@ -1846,7 +1748,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 137,
+    "num": 130,
     "live": true
   },
   {
@@ -1861,7 +1763,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 138,
+    "num": 131,
     "live": true
   },
   {
@@ -1876,7 +1778,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 139,
+    "num": 132,
     "live": true
   },
   {
@@ -1891,7 +1793,7 @@
     "refreshSec": 15,
     "width": 640,
     "height": 360,
-    "num": 140
+    "num": 133
   },
   {
     "id": "ke-africa24en",
@@ -1905,7 +1807,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 141,
+    "num": 134,
     "live": true
   },
   {
@@ -1920,7 +1822,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 142,
+    "num": 135,
     "live": true
   },
   {
@@ -1935,7 +1837,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 143,
+    "num": 136,
     "live": true
   },
   {
@@ -1950,7 +1852,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 144,
+    "num": 137,
     "live": true
   },
   {
@@ -1965,7 +1867,7 @@
     "height": 540,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 145,
+    "num": 138,
     "live": true
   },
   {
@@ -1979,7 +1881,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 146
+    "num": 139
   },
   {
     "id": "lt-vilnius",
@@ -1992,7 +1894,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 147
+    "num": 140
   },
   {
     "id": "lv-jurmala",
@@ -2005,7 +1907,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 148
+    "num": 141
   },
   {
     "id": "lv-daugavpils",
@@ -2018,7 +1920,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 149
+    "num": 142
   },
   {
     "id": "mv-huvahendhooariatoll",
@@ -2031,7 +1933,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 150
+    "num": 143
   },
   {
     "id": "mx-acustik",
@@ -2045,7 +1947,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 151,
+    "num": 144,
     "live": true
   },
   {
@@ -2059,7 +1961,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 152
+    "num": 145
   },
   {
     "id": "mx-amx",
@@ -2073,7 +1975,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 153,
+    "num": 146,
     "live": true
   },
   {
@@ -2088,7 +1990,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 154,
+    "num": 147,
     "live": true
   },
   {
@@ -2100,7 +2002,7 @@
     "lng": 18.35,
     "url": "https://www.yr.no/webcams/1/2000/setermoen/3.jpg",
     "refreshSec": 20,
-    "num": 155,
+    "num": 148,
     "width": 1280,
     "height": 720
   },
@@ -2115,7 +2017,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 156
+    "num": 149
   },
   {
     "id": "nz-auckland",
@@ -2128,7 +2030,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 157
+    "num": 150
   },
   {
     "id": "nz-dunedin",
@@ -2141,7 +2043,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 158
+    "num": 151
   },
   {
     "id": "nz-bravo",
@@ -2155,7 +2057,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 159,
+    "num": 152,
     "live": true
   },
   {
@@ -2169,7 +2071,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 160
+    "num": 153
   },
   {
     "id": "pl-bialka-tatrzanska",
@@ -2182,7 +2084,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 161
+    "num": 154
   },
   {
     "id": "pl-bydgoszcz",
@@ -2195,7 +2097,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 162
+    "num": 155
   },
   {
     "id": "pt-kmusic",
@@ -2209,7 +2111,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 163,
+    "num": 156,
     "live": true
   },
   {
@@ -2223,7 +2125,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 164
+    "num": 157
   },
   {
     "id": "qa-alaraby",
@@ -2234,7 +2136,7 @@
     "lng": 51.53,
     "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
     "refreshSec": 0,
-    "num": 165,
+    "num": 158,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -2252,7 +2154,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 166,
+    "num": 159,
     "live": true
   },
   {
@@ -2267,7 +2169,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 167,
+    "num": 160,
     "live": true
   },
   {
@@ -2281,7 +2183,7 @@
     "refreshSec": 15,
     "width": 4926,
     "height": 2463,
-    "num": 168
+    "num": 161
   },
   {
     "id": "ro-eforie",
@@ -2294,7 +2196,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 169
+    "num": 162
   },
   {
     "id": "ro-buzau",
@@ -2307,7 +2209,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 170
+    "num": 163
   },
   {
     "id": "ro-alephnews",
@@ -2321,7 +2223,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 171,
+    "num": 164,
     "live": true
   },
   {
@@ -2335,7 +2237,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 172
+    "num": 165
   },
   {
     "id": "ru-kingisepp",
@@ -2348,7 +2250,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 960,
-    "num": 173
+    "num": 166
   },
   {
     "id": "ru-360news",
@@ -2359,7 +2261,7 @@
     "lng": 37.62,
     "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
     "refreshSec": 0,
-    "num": 174,
+    "num": 167,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -2377,7 +2279,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 175,
+    "num": 168,
     "live": true
   },
   {
@@ -2391,7 +2293,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 176
+    "num": 169
   },
   {
     "id": "sg-cna",
@@ -2405,7 +2307,7 @@
     "refreshSec": 15,
     "width": 640,
     "height": 360,
-    "num": 177
+    "num": 170
   },
   {
     "id": "th-phuket",
@@ -2418,7 +2320,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 178
+    "num": 171
   },
   {
     "id": "th-bangkok",
@@ -2431,7 +2333,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 179
+    "num": 172
   },
   {
     "id": "th-chiang-mai",
@@ -2444,7 +2346,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 180
+    "num": 173
   },
   {
     "id": "tr-trthaber",
@@ -2458,7 +2360,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 181
+    "num": 174
   },
   {
     "id": "tr-trtworld",
@@ -2472,7 +2374,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 182
+    "num": 175
   },
   {
     "id": "tr-360tv",
@@ -2486,7 +2388,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 183,
+    "num": 176,
     "live": true
   },
   {
@@ -2501,7 +2403,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 184
+    "num": 177
   },
   {
     "id": "tw-bltv",
@@ -2515,7 +2417,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 185
+    "num": 178
   },
   {
     "id": "tw-dali",
@@ -2529,7 +2431,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 186
+    "num": 179
   },
   {
     "id": "us-jacksonville",
@@ -2540,7 +2442,7 @@
     "lng": -81.4,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-jaxpierss/latest_full.jpg",
     "refreshSec": 12,
-    "num": 187,
+    "num": 180,
     "width": 1280,
     "height": 720
   },
@@ -2553,7 +2455,7 @@
     "lng": -158.05,
     "url": "https://camstills.cdn-surfline.com/us-west-2/hi-banzaipipeline/latest_full.jpg",
     "refreshSec": 10,
-    "num": 188,
+    "num": 181,
     "width": 1280,
     "height": 720
   },
@@ -2566,7 +2468,7 @@
     "lng": -124.11,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-westport/latest_full.jpg",
     "refreshSec": 12,
-    "num": 189,
+    "num": 182,
     "width": 1280,
     "height": 720
   },
@@ -2579,7 +2481,7 @@
     "lng": -110.95,
     "url": "https://www.nps.gov/webcams-yell/mammoth_arch.jpg",
     "refreshSec": 15,
-    "num": 190,
+    "num": 183,
     "width": 1920,
     "height": 1080
   },
@@ -2592,7 +2494,7 @@
     "lng": -110.5,
     "url": "https://www.nps.gov/webcams-yell/east_in.jpg",
     "refreshSec": 15,
-    "num": 191,
+    "num": 184,
     "width": 1920,
     "height": 1080
   },
@@ -2605,7 +2507,7 @@
     "lng": -157.8,
     "url": "https://camstills.cdn-surfline.com/us-west-2/hi-waikikibeach/latest_full.jpg",
     "refreshSec": 10,
-    "num": 192,
+    "num": 185,
     "width": 1280,
     "height": 720
   },
@@ -2618,7 +2520,7 @@
     "lng": -157.88,
     "url": "https://camstills.cdn-surfline.com/us-west-2/hi-alamoanabowls/latest_full.jpg",
     "refreshSec": 10,
-    "num": 193,
+    "num": 186,
     "width": 1280,
     "height": 720
   },
@@ -2634,7 +2536,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 194,
+    "num": 187,
     "live": true
   },
   {
@@ -2646,7 +2548,7 @@
     "lng": -118.15,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-9thstov/latest_full.jpg",
     "refreshSec": 12,
-    "num": 195,
+    "num": 188,
     "width": 1280,
     "height": 720
   },
@@ -2659,7 +2561,7 @@
     "lng": -75.52,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-capehatteras2nd/latest_full.jpg",
     "refreshSec": 12,
-    "num": 196,
+    "num": 189,
     "width": 1280,
     "height": 720
   },
@@ -2672,7 +2574,7 @@
     "lng": -121.97,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-dogpatch/latest_full.jpg",
     "refreshSec": 12,
-    "num": 197,
+    "num": 190,
     "width": 1280,
     "height": 720
   },
@@ -2685,7 +2587,7 @@
     "lng": -117.75,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-boneyardcloseup/latest_full.jpg",
     "refreshSec": 12,
-    "num": 198,
+    "num": 191,
     "width": 1280,
     "height": 720
   },
@@ -2698,7 +2600,7 @@
     "lng": -74.1,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-manasquan/latest_full.jpg",
     "refreshSec": 12,
-    "num": 199,
+    "num": 192,
     "width": 1280,
     "height": 720
   },
@@ -2711,7 +2613,7 @@
     "lng": -114.02,
     "url": "https://www.nps.gov/webcams-glac/ApgarLookout-01.jpg",
     "refreshSec": 15,
-    "num": 200,
+    "num": 193,
     "width": 1920,
     "height": 1080
   },
@@ -2724,7 +2626,7 @@
     "lng": -121.74,
     "url": "https://www.nps.gov/webcams-mora/east.jpg",
     "refreshSec": 15,
-    "num": 201,
+    "num": 194,
     "width": 1920,
     "height": 1080
   },
@@ -2737,7 +2639,7 @@
     "lng": -86.22,
     "url": "https://30a-tv.com/ln.m3u8",
     "refreshSec": 0,
-    "num": 202,
+    "num": 195,
     "width": 640,
     "height": 360,
     "streamType": "hls",
@@ -2752,7 +2654,7 @@
     "lng": -117.25,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-blacksov/latest_full.jpg",
     "refreshSec": 12,
-    "num": 203,
+    "num": 196,
     "width": 1280,
     "height": 720
   },
@@ -2765,7 +2667,7 @@
     "lng": -80.93,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-newsmyrna/latest_full.jpg",
     "refreshSec": 12,
-    "num": 204,
+    "num": 197,
     "width": 1280,
     "height": 720
   },
@@ -2778,7 +2680,7 @@
     "lng": -73.7,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-rockaway110th/latest_full.jpg",
     "refreshSec": 12,
-    "num": 205,
+    "num": 198,
     "width": 1280,
     "height": 720
   },
@@ -2791,7 +2693,7 @@
     "lng": -122.33,
     "url": "https://cdn.tegna-media.com/king/weather/roofcam1.jpg",
     "refreshSec": 12,
-    "num": 206,
+    "num": 199,
     "width": 1920,
     "height": 1080
   },
@@ -2804,7 +2706,7 @@
     "lng": -77.04,
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
     "refreshSec": 0,
-    "num": 207,
+    "num": 200,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -2822,7 +2724,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 208,
+    "num": 201,
     "live": true
   },
   {
@@ -2837,7 +2739,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 209,
+    "num": 202,
     "live": true
   },
   {
@@ -2852,7 +2754,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 210,
+    "num": 203,
     "live": true
   },
   {
@@ -2867,7 +2769,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 211
+    "num": 204
   },
   {
     "id": "us-tubi-abc2",
@@ -2878,7 +2780,7 @@
     "lng": -76.61,
     "url": "https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8",
     "refreshSec": 0,
-    "num": 212,
+    "num": 205,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -2896,7 +2798,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 213,
+    "num": 206,
     "live": true
   },
   {
@@ -2908,7 +2810,7 @@
     "lng": -71.46,
     "url": "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8",
     "refreshSec": 0,
-    "num": 214,
+    "num": 207,
     "width": 1280,
     "height": 720,
     "streamType": "hls",
@@ -2926,7 +2828,7 @@
     "refreshSec": 15,
     "width": 3840,
     "height": 2160,
-    "num": 215
+    "num": 208
   },
   {
     "id": "za-capetown",
@@ -2940,6 +2842,6 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 216
+    "num": 209
   }
 ]
