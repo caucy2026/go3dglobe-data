@@ -224,20 +224,6 @@
     "num": 17
   },
   {
-    "id": "au-tbnpacific",
-    "name": "📡 TBN 太平洋",
-    "city": "布里斯班",
-    "country": "AU",
-    "lat": -27.47,
-    "lng": 153.03,
-    "url": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8",
-    "streamType": "hls",
-    "refreshSec": 15,
-    "width": 1920,
-    "height": 1080,
-    "num": 18
-  },
-  {
     "id": "au-christmas-island",
     "name": "🦀 🇦🇺 Christmas Island",
     "city": "Christmas Island",
