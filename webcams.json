@@ -137,6 +137,21 @@
     "lon": 11.3933372
   },
   {
+    "id": "at-salzburg",
+    "name": "🏰 萨尔茨堡 · 莫扎特之城",
+    "city": "Salzburg",
+    "country": "AT",
+    "lat": 47.81,
+    "lng": 13.04,
+    "url": "https://images.webcamgalore.com/38450-current-webcam-Salzburg.jpg",
+    "refreshSec": 15,
+    "width": 1280,
+    "height": 720,
+    "num": 10,
+    "type": "jpeg",
+    "lon": 13.04
+  },
+  {
     "id": "au-alice-springs",
     "name": "🏜️ 🇦🇺 Alice Springs · 红土中心",
     "city": "Alice Springs",
@@ -147,7 +162,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 10,
+    "num": 11,
     "type": "jpeg",
     "lon": 133.88
   },
@@ -162,7 +177,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 11,
+    "num": 12,
     "type": "jpeg",
     "lon": 167.95
   },
@@ -177,7 +192,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 12,
+    "num": 13,
     "type": "jpeg",
     "lon": 145.77
   },
@@ -192,7 +207,7 @@
     "refreshSec": 15,
     "width": 2560,
     "height": 1440,
-    "num": 13,
+    "num": 14,
     "type": "jpeg",
     "lon": 145.12
   },
@@ -207,9 +222,24 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 14,
+    "num": 15,
     "type": "jpeg",
     "lon": 105.63
+  },
+  {
+    "id": "au-darwin",
+    "name": "🌴 🇦🇺 Darwin · 北领地",
+    "city": "Darwin",
+    "country": "AU",
+    "lat": -12.46,
+    "lng": 130.84,
+    "url": "https://images.webcamgalore.com/34255-current-webcam-Darwin.jpg",
+    "refreshSec": 15,
+    "width": 3840,
+    "height": 2160,
+    "num": 16,
+    "type": "jpeg",
+    "lon": 130.84
   },
   {
     "id": "au-eton",
@@ -222,7 +252,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 15,
+    "num": 17,
     "type": "jpeg",
     "lon": 148.97
   },
@@ -237,7 +267,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 16,
+    "num": 18,
     "type": "jpeg",
     "lon": 148.96
   },
@@ -252,9 +282,24 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 17,
+    "num": 19,
     "type": "jpeg",
     "lon": 147.33
+  },
+  {
+    "id": "au-jabiru",
+    "name": "🐊 🇦🇺 Jabiru · 卡卡杜",
+    "city": "Jabiru",
+    "country": "AU",
+    "lat": -12.67,
+    "lng": 132.83,
+    "url": "https://images.webcamgalore.com/36961-current-webcam-Jabiru.jpg",
+    "refreshSec": 15,
+    "width": 1920,
+    "height": 1080,
+    "num": 20,
+    "type": "jpeg",
+    "lon": 132.83
   },
   {
     "id": "au-kalgoorlie-boulder",
@@ -267,7 +312,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 18,
+    "num": 21,
     "type": "jpeg",
     "lon": 121.4589996
   },
@@ -282,7 +327,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 19,
+    "num": 22,
     "type": "jpeg",
     "lon": 151.151001
   },
@@ -298,9 +343,24 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 20,
+    "num": 23,
     "type": "hls",
     "lon": 151.2
+  },
+  {
+    "id": "au-sydney",
+    "name": "🏙️ 悉尼 · 全景",
+    "city": "Sydney",
+    "country": "AU",
+    "lat": -33.87,
+    "lng": 151.21,
+    "url": "https://admin.meteobridge.com/cam/9c25cda08544cf0db24b350b27d1e5f5/camplus.jpg",
+    "refreshSec": 15,
+    "num": 24,
+    "width": 1280,
+    "height": 720,
+    "type": "jpeg",
+    "lon": 151.21
   },
   {
     "id": "be-antwerp",
@@ -313,7 +373,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 21,
+    "num": 25,
     "type": "jpeg",
     "lon": 4.4
   },
@@ -328,7 +388,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 22,
+    "num": 26,
     "type": "jpeg",
     "lon": 2.6745701
   },
@@ -343,7 +403,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 23,
+    "num": 27,
     "type": "jpeg",
     "lon": -43.18
   },
@@ -359,7 +419,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 24,
+    "num": 28,
     "live": true,
     "type": "hls",
     "lon": -46.63
@@ -375,7 +435,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 25,
+    "num": 29,
     "type": "jpeg",
     "lon": -127.86
   },
@@ -390,9 +450,24 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 26,
+    "num": 30,
     "type": "jpeg",
     "lon": -125.32
+  },
+  {
+    "id": "ca-arnprior",
+    "name": "🍁 安普赖尔 · 渥太华谷",
+    "city": "Arnprior",
+    "country": "CA",
+    "lat": 45.43,
+    "lng": -76.36,
+    "url": "https://images.webcamgalore.com/20888-current-webcam-Arnprior.jpg",
+    "refreshSec": 15,
+    "width": 800,
+    "height": 600,
+    "num": 31,
+    "type": "jpeg",
+    "lon": -76.36
   },
   {
     "id": "ca-atlin",
@@ -405,7 +480,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 27,
+    "num": 32,
     "type": "jpeg",
     "lon": -133.72
   },
@@ -420,7 +495,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 28,
+    "num": 33,
     "type": "jpeg",
     "lon": -82.43
   },
@@ -435,7 +510,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 29,
+    "num": 34,
     "type": "jpeg",
     "lon": -128.14
   },
@@ -450,9 +525,24 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 30,
+    "num": 35,
     "type": "jpeg",
     "lon": -125.76
+  },
+  {
+    "id": "ca-coleman",
+    "name": "🏔️ 科尔曼 · 落基山隘",
+    "city": "Coleman",
+    "country": "CA",
+    "lat": 49.64,
+    "lng": -114.5,
+    "url": "https://images.webcamgalore.com/20905-current-webcam-Coleman.jpg",
+    "refreshSec": 15,
+    "width": 800,
+    "height": 600,
+    "num": 36,
+    "type": "jpeg",
+    "lon": -114.5
   },
   {
     "id": "ca-gore-bay",
@@ -465,7 +555,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 31,
+    "num": 37,
     "type": "jpeg",
     "lon": -82.47
   },
@@ -480,7 +570,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 32,
+    "num": 38,
     "type": "jpeg",
     "lon": -63.57
   },
@@ -495,7 +585,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 33,
+    "num": 39,
     "type": "jpeg",
     "lon": -66.1837997
   },
@@ -510,7 +600,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 34,
+    "num": 40,
     "type": "jpeg",
     "lon": -75.69
   },
@@ -525,7 +615,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 35,
+    "num": 41,
     "type": "jpeg",
     "lon": -124.8
   },
@@ -540,7 +630,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 36,
+    "num": 42,
     "type": "jpeg",
     "lon": -130.32
   },
@@ -555,7 +645,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 37,
+    "num": 43,
     "type": "jpeg",
     "lon": -71.89
   },
@@ -570,7 +660,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 38,
+    "num": 44,
     "type": "jpeg",
     "lon": -125.55
   },
@@ -585,7 +675,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 39,
+    "num": 45,
     "type": "jpeg",
     "lon": -124.01
   },
@@ -600,7 +690,7 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 40,
+    "num": 46,
     "type": "jpeg",
     "lon": -119.27
   },
@@ -615,7 +705,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 41,
+    "num": 47,
     "type": "jpeg",
     "lon": -70.8065033
   },
@@ -630,7 +720,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 42,
+    "num": 48,
     "type": "jpeg",
     "lon": -70.8431015
   },
@@ -645,7 +735,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 43,
+    "num": 49,
     "type": "jpeg",
     "lon": 102.7
   },
@@ -660,7 +750,7 @@
     "refreshSec": 15,
     "width": 4406,
     "height": 3264,
-    "num": 44,
+    "num": 50,
     "type": "jpeg",
     "lon": 116.4
   },
@@ -675,7 +765,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 45,
+    "num": 51,
     "type": "jpeg",
     "lon": 117.9
   },
@@ -690,7 +780,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 46,
+    "num": 52,
     "type": "jpeg",
     "lon": 104.1
   },
@@ -705,7 +795,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 47,
+    "num": 53,
     "type": "jpeg",
     "lon": 94.7
   },
@@ -720,7 +810,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 48,
+    "num": 54,
     "type": "jpeg",
     "lon": 109.6
   },
@@ -735,7 +825,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 49,
+    "num": 55,
     "type": "jpeg",
     "lon": 117.1
   },
@@ -750,7 +840,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 50,
+    "num": 56,
     "type": "jpeg",
     "lon": 114.3010025
   },
@@ -765,7 +855,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 51,
+    "num": 57,
     "type": "jpeg",
     "lon": 103.822998
   },
@@ -780,7 +870,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 52,
+    "num": 58,
     "type": "jpeg",
     "lon": 118.7549973
   },
@@ -796,7 +886,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 53,
+    "num": 59,
     "type": "hls",
     "lon": 119.57
   },
@@ -812,7 +902,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 54,
+    "num": 60,
     "type": "hls",
     "lon": 117.6
   },
@@ -828,7 +918,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 55,
+    "num": 61,
     "type": "hls",
     "lon": 116.4
   },
@@ -844,7 +934,7 @@
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "num": 56,
+    "num": 62,
     "type": "hls",
     "lon": 117.3
   },
@@ -860,7 +950,7 @@
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "num": 57,
+    "num": 63,
     "type": "hls",
     "lon": 117.0
   },
@@ -876,7 +966,7 @@
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "num": 58,
+    "num": 64,
     "type": "hls",
     "lon": 116.7
   },
@@ -892,7 +982,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 59,
+    "num": 65,
     "type": "hls",
     "lon": 120.82
   },
@@ -908,7 +998,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 60,
+    "num": 66,
     "type": "hls",
     "lon": 121.02
   },
@@ -924,7 +1014,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "jpeg",
-    "num": 61,
+    "num": 67,
     "type": "jpeg",
     "lon": 110.48
   },
@@ -940,7 +1030,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 62,
+    "num": 68,
     "type": "hls",
     "lon": 119.48
   },
@@ -956,7 +1046,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 63,
+    "num": 69,
     "live": true,
     "type": "hls",
     "lon": 120.87
@@ -973,7 +1063,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 64,
+    "num": 70,
     "type": "hls",
     "lon": 120.09
   },
@@ -989,7 +1079,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 65,
+    "num": 71,
     "type": "hls",
     "lon": 120.26
   },
@@ -1005,7 +1095,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 66,
+    "num": 72,
     "type": "hls",
     "lon": 120.24
   },
@@ -1021,7 +1111,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 67,
+    "num": 73,
     "type": "hls",
     "lon": 121.87
   },
@@ -1037,7 +1127,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 68,
+    "num": 74,
     "type": "hls",
     "lon": 120.29
   },
@@ -1053,7 +1143,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 69,
+    "num": 75,
     "type": "hls",
     "lon": 119.14
   },
@@ -1069,7 +1159,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 70,
+    "num": 76,
     "type": "hls",
     "lon": 119.17
   },
@@ -1084,7 +1174,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 71,
+    "num": 77,
     "type": "jpeg",
     "lon": 14.42
   },
@@ -1099,9 +1189,24 @@
     "refreshSec": 15,
     "width": 2048,
     "height": 1536,
-    "num": 72,
+    "num": 78,
     "type": "jpeg",
     "lon": 14.19
+  },
+  {
+    "id": "de-grosspoesna",
+    "name": "🇩🇪 Grosspoesna, Germany",
+    "city": "Grosspoesna",
+    "country": "DE",
+    "lat": 51.2675018,
+    "lng": 12.4975004,
+    "url": "https://images.webcamgalore.com/38325-current-webcam-Grosspoesna.jpg",
+    "refreshSec": 30,
+    "width": 3840,
+    "height": 2160,
+    "num": 79,
+    "type": "jpeg",
+    "lon": 12.4975004
   },
   {
     "id": "de-hamburg",
@@ -1114,7 +1219,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 73,
+    "num": 80,
     "type": "jpeg",
     "lon": 9.7503662
   },
@@ -1129,7 +1234,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 74,
+    "num": 81,
     "type": "jpeg",
     "lon": 12.9173002
   },
@@ -1144,7 +1249,7 @@
     "refreshSec": 30,
     "width": 1600,
     "height": 1200,
-    "num": 75,
+    "num": 82,
     "type": "jpeg",
     "lon": 12.3413
   },
@@ -1160,7 +1265,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 76,
+    "num": 83,
     "type": "hls",
     "lon": 9.2
   },
@@ -1175,9 +1280,24 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 77,
+    "num": 84,
     "type": "jpeg",
     "lon": 9.9676504
+  },
+  {
+    "id": "dk-fanoe",
+    "name": "🏖️ 🇩🇰 Fanoe",
+    "city": "Fanoe",
+    "country": "DK",
+    "lat": 55.41,
+    "lng": 8.4,
+    "url": "https://images.webcamgalore.com/33383-current-webcam-Fanoe.jpg",
+    "refreshSec": 15,
+    "width": 1920,
+    "height": 1080,
+    "num": 85,
+    "type": "jpeg",
+    "lon": 8.4
   },
   {
     "id": "dk-hou",
@@ -1190,7 +1310,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 78,
+    "num": 86,
     "type": "jpeg",
     "lon": 10.3776169
   },
@@ -1205,7 +1325,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 79,
+    "num": 87,
     "type": "jpeg",
     "lon": -68.8085022
   },
@@ -1221,7 +1341,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 80,
+    "num": 88,
     "live": true,
     "type": "hls",
     "lon": -69.93
@@ -1237,7 +1357,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 81,
+    "num": 89,
     "type": "jpeg",
     "lon": 24.7548008
   },
@@ -1252,7 +1372,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 82,
+    "num": 90,
     "type": "jpeg",
     "lon": 29.9092999
   },
@@ -1267,7 +1387,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 83,
+    "num": 91,
     "type": "jpeg",
     "lon": 33.6567078
   },
@@ -1282,7 +1402,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 84,
+    "num": 92,
     "type": "jpeg",
     "lon": 31.1401005
   },
@@ -1297,7 +1417,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 85,
+    "num": 93,
     "type": "jpeg",
     "lon": 33.8303375
   },
@@ -1312,9 +1432,24 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 86,
+    "num": 94,
     "type": "jpeg",
     "lon": 33.9385681
+  },
+  {
+    "id": "es-a-coruna",
+    "name": "🌊 🇪🇸 A Coruna",
+    "city": "A Coruna",
+    "country": "ES",
+    "lat": 43.37,
+    "lng": -8.4,
+    "url": "https://images.webcamgalore.com/33601-current-webcam-A-Coruna.jpg",
+    "refreshSec": 15,
+    "width": 1920,
+    "height": 1080,
+    "num": 95,
+    "type": "jpeg",
+    "lon": -8.4
   },
   {
     "id": "es-jerez-de-la-frontera",
@@ -1327,9 +1462,24 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 87,
+    "num": 96,
     "type": "jpeg",
     "lon": -6.137238
+  },
+  {
+    "id": "es-port-de-pollenca-majorca",
+    "name": "🇪🇸 Port de Pollenca Majorca, Spain",
+    "city": "Port de Pollenca Majorca",
+    "country": "ES",
+    "lat": 39.8638,
+    "lng": 3.0926099,
+    "url": "https://images.webcamgalore.com/19114-current-webcam-Port-de-Pollenca-Majorca.jpg",
+    "refreshSec": 30,
+    "width": 1920,
+    "height": 1080,
+    "num": 97,
+    "type": "jpeg",
+    "lon": 3.0926099
   },
   {
     "id": "es-roses",
@@ -1342,7 +1492,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 88,
+    "num": 98,
     "type": "jpeg",
     "lon": 3.1512301
   },
@@ -1358,7 +1508,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 89,
+    "num": 99,
     "live": true,
     "type": "hls",
     "lon": 2.17
@@ -1372,7 +1522,7 @@
     "lng": 2.17,
     "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
     "refreshSec": 0,
-    "num": 90,
+    "num": 100,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -1389,11 +1539,26 @@
     "lng": 24.948,
     "url": "https://weathercam.digitraffic.fi/C0151301.jpg",
     "refreshSec": 10,
-    "num": 91,
+    "num": 101,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
     "lon": 24.948
+  },
+  {
+    "id": "fi-ruka",
+    "name": "🇫🇮 Ruka, Finland",
+    "city": "Ruka",
+    "country": "FI",
+    "lat": 66.1713028,
+    "lng": 29.1506004,
+    "url": "https://images.webcamgalore.com/36484-current-webcam-Ruka.jpg",
+    "refreshSec": 30,
+    "width": 1920,
+    "height": 1280,
+    "num": 102,
+    "type": "jpeg",
+    "lon": 29.1506004
   },
   {
     "id": "fi-turku",
@@ -1404,7 +1569,7 @@
     "lng": 22.29,
     "url": "https://weathercam.digitraffic.fi/C0252001.jpg",
     "refreshSec": 10,
-    "num": 92,
+    "num": 103,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -1421,9 +1586,39 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 93,
+    "num": 104,
     "type": "jpeg",
     "lon": -6.7065001
+  },
+  {
+    "id": "fr-abries",
+    "name": "🏔️ 🇫🇷 Abries",
+    "city": "Abries",
+    "country": "FR",
+    "lat": 44.8,
+    "lng": 6.93,
+    "url": "https://images.webcamgalore.com/20565-current-webcam-Abries.jpg",
+    "refreshSec": 15,
+    "width": 1920,
+    "height": 1080,
+    "num": 105,
+    "type": "jpeg",
+    "lon": 6.93
+  },
+  {
+    "id": "fr-la-chevroliere",
+    "name": "🇫🇷 La Chevroliere, France",
+    "city": "La Chevroliere",
+    "country": "FR",
+    "lat": 47.0979996,
+    "lng": -1.6377,
+    "url": "https://images.webcamgalore.com/35745-current-webcam-La-Chevroliere.jpg",
+    "refreshSec": 30,
+    "width": 3510,
+    "height": 1755,
+    "num": 106,
+    "type": "jpeg",
+    "lon": -1.6377
   },
   {
     "id": "fr-la-tranche-sur-mer",
@@ -1436,7 +1631,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 94,
+    "num": 107,
     "type": "jpeg",
     "lon": -1.47539
   },
@@ -1452,7 +1647,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 95,
+    "num": 108,
     "type": "hls",
     "lon": 4.8
   },
@@ -1468,7 +1663,7 @@
     "refreshSec": 15,
     "width": 640,
     "height": 360,
-    "num": 96,
+    "num": 109,
     "type": "hls",
     "lon": 2.3
   },
@@ -1484,7 +1679,7 @@
     "refreshSec": 15,
     "width": 960,
     "height": 540,
-    "num": 97,
+    "num": 110,
     "type": "hls",
     "lon": 2.8
   },
@@ -1499,7 +1694,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 98,
+    "num": 111,
     "type": "jpeg",
     "lon": -1.43823
   },
@@ -1514,7 +1709,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 960,
-    "num": 99,
+    "num": 112,
     "type": "jpeg",
     "lon": -3.19
   },
@@ -1529,7 +1724,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 100,
+    "num": 113,
     "type": "jpeg",
     "lon": -0.13
   },
@@ -1544,7 +1739,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 101,
+    "num": 114,
     "type": "jpeg",
     "lon": 1.4166667
   },
@@ -1560,10 +1755,25 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 102,
+    "num": 115,
     "live": true,
     "type": "hls",
     "lon": -0.13
+  },
+  {
+    "id": "gl-freya-glacier",
+    "name": "🧊 🇬🇱 Freya Glacier · 格陵兰",
+    "city": "Freya Glacier",
+    "country": "GL",
+    "lat": 74.38,
+    "lng": -20.84,
+    "url": "https://images.webcamgalore.com/28893-current-webcam-Freya-Glacier.jpg",
+    "refreshSec": 15,
+    "width": 1920,
+    "height": 1080,
+    "num": 116,
+    "type": "jpeg",
+    "lon": -20.84
   },
   {
     "id": "gl-ilulissat",
@@ -1576,9 +1786,24 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 103,
+    "num": 117,
     "type": "jpeg",
     "lon": -51.1
+  },
+  {
+    "id": "gl-kangerlussuaq",
+    "name": "🧊 🇬🇱 Kangerlussuaq · 北极圈",
+    "city": "Kangerlussuaq",
+    "country": "GL",
+    "lat": 67.01,
+    "lng": -50.69,
+    "url": "https://images.webcamgalore.com/35846-current-webcam-Kangerlussuaq.jpg",
+    "refreshSec": 15,
+    "width": 1280,
+    "height": 720,
+    "num": 118,
+    "type": "jpeg",
+    "lon": -50.69
   },
   {
     "id": "gl-kulusuk",
@@ -1591,7 +1816,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 104,
+    "num": 119,
     "type": "jpeg",
     "lon": -37.18
   },
@@ -1606,7 +1831,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 105,
+    "num": 120,
     "type": "jpeg",
     "lon": 25.46
   },
@@ -1621,7 +1846,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 106,
+    "num": 121,
     "type": "jpeg",
     "lon": -90.51
   },
@@ -1636,7 +1861,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 107,
+    "num": 122,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1651,7 +1876,22 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 108,
+    "num": 123,
+    "type": "jpeg",
+    "lon": 115.3
+  },
+  {
+    "id": "cn-hk-airport",
+    "name": "✈️ 🇭🇰 香港机场",
+    "city": "HK Airport",
+    "country": "HK",
+    "lat": 19.7,
+    "lng": 115.3,
+    "url": "https://images.webcamgalore.com/34879-current-webcam-Hong-Kong.jpg",
+    "refreshSec": 15,
+    "width": 1280,
+    "height": 720,
+    "num": 124,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1666,7 +1906,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 109,
+    "num": 125,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1681,7 +1921,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 110,
+    "num": 126,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1696,7 +1936,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 111,
+    "num": 127,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1711,7 +1951,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 112,
+    "num": 128,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1726,7 +1966,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 113,
+    "num": 129,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1741,7 +1981,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 114,
+    "num": 130,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1756,7 +1996,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 115,
+    "num": 131,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1771,7 +2011,22 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 116,
+    "num": 132,
+    "type": "jpeg",
+    "lon": 115.3
+  },
+  {
+    "id": "cn-sheungshui",
+    "name": "🏫 🇭🇰 上水 · 西北",
+    "city": "Sheung Shui",
+    "country": "HK",
+    "lat": 19.1,
+    "lng": 115.3,
+    "url": "https://images.webcamgalore.com/34881-current-webcam-Hong-Kong.jpg",
+    "refreshSec": 15,
+    "width": 1280,
+    "height": 720,
+    "num": 133,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1786,7 +2041,22 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 117,
+    "num": 134,
+    "type": "jpeg",
+    "lon": 115.3
+  },
+  {
+    "id": "cn-tsimshatsui",
+    "name": "🏙️ 🇭🇰 尖沙咀 · 维港",
+    "city": "Tsim Sha Tsui",
+    "country": "HK",
+    "lat": 21.2,
+    "lng": 115.3,
+    "url": "https://images.webcamgalore.com/34868-current-webcam-Hong-Kong.jpg",
+    "refreshSec": 15,
+    "width": 1280,
+    "height": 720,
+    "num": 135,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1801,7 +2071,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 118,
+    "num": 136,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1816,7 +2086,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 119,
+    "num": 137,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1831,7 +2101,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 120,
+    "num": 138,
     "type": "jpeg",
     "lon": 115.3
   },
@@ -1847,7 +2117,7 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 121,
+    "num": 139,
     "type": "hls",
     "lon": 114.2
   },
@@ -1862,7 +2132,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 122,
+    "num": 140,
     "type": "jpeg",
     "lon": 13.78
   },
@@ -1877,7 +2147,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 123,
+    "num": 141,
     "type": "jpeg",
     "lon": 13.6648569
   },
@@ -1892,7 +2162,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 124,
+    "num": 142,
     "type": "jpeg",
     "lon": 15.7103996
   },
@@ -1907,7 +2177,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 125,
+    "num": 143,
     "type": "jpeg",
     "lon": 15.4752998
   },
@@ -1922,7 +2192,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 126,
+    "num": 144,
     "type": "jpeg",
     "lon": 13.5396004
   },
@@ -1937,7 +2207,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 127,
+    "num": 145,
     "type": "jpeg",
     "lon": 17.91
   },
@@ -1953,7 +2223,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 128,
+    "num": 146,
     "live": true,
     "type": "hls",
     "lon": 19.04
@@ -1969,7 +2239,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 129,
+    "num": 147,
     "type": "jpeg",
     "lon": 115.3389969
   },
@@ -1984,7 +2254,7 @@
     "refreshSec": 15,
     "width": 2348,
     "height": 1920,
-    "num": 130,
+    "num": 148,
     "type": "jpeg",
     "lon": 107.6
   },
@@ -1999,7 +2269,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 131,
+    "num": 149,
     "type": "jpeg",
     "lon": -6.26
   },
@@ -2014,7 +2284,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 132,
+    "num": 150,
     "type": "jpeg",
     "lon": 34.7817993
   },
@@ -2029,7 +2299,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 133,
+    "num": 151,
     "type": "jpeg",
     "lon": 76.7
   },
@@ -2044,7 +2314,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 134,
+    "num": 152,
     "type": "jpeg",
     "lon": 77.2229996
   },
@@ -2059,7 +2329,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 135,
+    "num": 153,
     "type": "jpeg",
     "lon": 79.07
   },
@@ -2075,7 +2345,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 136,
+    "num": 154,
     "live": true,
     "type": "hls",
     "lon": 88.36
@@ -2089,7 +2359,7 @@
     "lng": 77.23,
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "refreshSec": 0,
-    "num": 137,
+    "num": 155,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -2109,7 +2379,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 138,
+    "num": 156,
     "live": true,
     "type": "hls",
     "lon": 78.49
@@ -2126,7 +2396,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 139,
+    "num": 157,
     "live": true,
     "type": "hls",
     "lon": 78.49
@@ -2143,7 +2413,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 140,
+    "num": 158,
     "live": true,
     "type": "hls",
     "lon": 44.36
@@ -2160,10 +2430,27 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 141,
+    "num": 159,
     "live": true,
     "type": "hls",
     "lon": 44.36
+  },
+  {
+    "id": "ir-alalam",
+    "name": "📡 Alalam News",
+    "city": "德黑兰",
+    "country": "IR",
+    "lat": 35.69,
+    "lng": 51.42,
+    "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+    "width": 640,
+    "height": 360,
+    "streamType": "hls",
+    "refreshSec": 0,
+    "num": 160,
+    "live": true,
+    "type": "hls",
+    "lon": 51.42
   },
   {
     "id": "is-akranes2",
@@ -2176,7 +2463,7 @@
     "refreshSec": 15,
     "width": 3072,
     "height": 1728,
-    "num": 142,
+    "num": 161,
     "type": "jpeg",
     "lon": -22.07
   },
@@ -2191,7 +2478,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 143,
+    "num": 162,
     "type": "jpeg",
     "lon": -18.09
   },
@@ -2206,7 +2493,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 144,
+    "num": 163,
     "type": "jpeg",
     "lon": -22.5939999
   },
@@ -2221,9 +2508,24 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 145,
+    "num": 164,
     "type": "jpeg",
     "lon": -21.9076996
+  },
+  {
+    "id": "is-thingvellir",
+    "name": "🇮🇸 Thingvellir, Iceland",
+    "city": "Thingvellir",
+    "country": "IS",
+    "lat": 64.2602997,
+    "lng": -21.1238003,
+    "url": "https://images.webcamgalore.com/14426-current-webcam-Thingvellir.jpg",
+    "refreshSec": 30,
+    "width": 3840,
+    "height": 2160,
+    "num": 165,
+    "type": "jpeg",
+    "lon": -21.1238003
   },
   {
     "id": "it-abbadia-san-salvatore",
@@ -2236,7 +2538,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 146,
+    "num": 166,
     "type": "jpeg",
     "lon": 11.67
   },
@@ -2251,7 +2553,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 147,
+    "num": 167,
     "type": "jpeg",
     "lon": 10.67
   },
@@ -2266,7 +2568,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 148,
+    "num": 168,
     "type": "jpeg",
     "lon": -2.17012
   },
@@ -2282,10 +2584,25 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 149,
+    "num": 169,
     "live": true,
     "type": "hls",
     "lon": 35.93
+  },
+  {
+    "id": "jp-kagoshima",
+    "name": "🌋 鹿児島 · 桜島",
+    "city": "Kagoshima",
+    "country": "JP",
+    "lat": 31.56,
+    "lng": 130.56,
+    "url": "https://images.webcamgalore.com/1069-current-webcam-Kagoshima.jpg",
+    "refreshSec": 15,
+    "num": 170,
+    "width": 1920,
+    "height": 1080,
+    "type": "jpeg",
+    "lon": 130.56
   },
   {
     "id": "jp-sakurajima",
@@ -2298,7 +2615,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 150,
+    "num": 171,
     "type": "jpeg",
     "lon": 130.6544037
   },
@@ -2314,7 +2631,7 @@
     "refreshSec": 15,
     "width": 640,
     "height": 360,
-    "num": 151,
+    "num": 172,
     "type": "hls",
     "lon": 138.3
   },
@@ -2329,7 +2646,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 152,
+    "num": 173,
     "type": "jpeg",
     "lon": 139.7810059
   },
@@ -2345,7 +2662,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 153,
+    "num": 174,
     "live": true,
     "type": "hls",
     "lon": 139.75
@@ -2362,7 +2679,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 154,
+    "num": 175,
     "live": true,
     "type": "hls",
     "lon": 139.77
@@ -2379,7 +2696,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 155,
+    "num": 176,
     "live": true,
     "type": "hls",
     "lon": 139.74
@@ -2396,7 +2713,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 156,
+    "num": 177,
     "live": true,
     "type": "hls",
     "lon": 139.76
@@ -2413,7 +2730,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 157,
+    "num": 178,
     "type": "hls",
     "lon": 140.3
   },
@@ -2429,7 +2746,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 158,
+    "num": 179,
     "live": true,
     "type": "hls",
     "lon": 36.82
@@ -2445,7 +2762,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 159,
+    "num": 180,
     "type": "jpeg",
     "lon": 126.9779968
   },
@@ -2461,7 +2778,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 160,
+    "num": 181,
     "live": true,
     "type": "hls",
     "lon": 127.49
@@ -2478,7 +2795,7 @@
     "height": 540,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 161,
+    "num": 182,
     "live": true,
     "type": "hls",
     "lon": 126.98
@@ -2495,7 +2812,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 162,
+    "num": 183,
     "live": true,
     "type": "hls",
     "lon": 126.98
@@ -2512,7 +2829,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 163,
+    "num": 184,
     "live": true,
     "type": "hls",
     "lon": 126.98
@@ -2528,7 +2845,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 164,
+    "num": 185,
     "type": "jpeg",
     "lon": 25.1
   },
@@ -2543,7 +2860,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 165,
+    "num": 186,
     "type": "jpeg",
     "lon": 20.9731998
   },
@@ -2558,7 +2875,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 166,
+    "num": 187,
     "type": "jpeg",
     "lon": 25.28
   },
@@ -2573,7 +2890,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 167,
+    "num": 188,
     "type": "jpeg",
     "lon": 26.53
   },
@@ -2588,7 +2905,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 168,
+    "num": 189,
     "type": "jpeg",
     "lon": 23.8010998
   },
@@ -2603,7 +2920,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 169,
+    "num": 190,
     "type": "jpeg",
     "lon": 23.83
   },
@@ -2618,7 +2935,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 170,
+    "num": 191,
     "type": "jpeg",
     "lon": 23.7854996
   },
@@ -2633,7 +2950,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 171,
+    "num": 192,
     "type": "jpeg",
     "lon": -15.7854996
   },
@@ -2648,7 +2965,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 172,
+    "num": 193,
     "type": "jpeg",
     "lon": -15.9354
   },
@@ -2663,7 +2980,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 173,
+    "num": 194,
     "type": "jpeg",
     "lon": -9.7575598
   },
@@ -2678,7 +2995,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 174,
+    "num": 195,
     "type": "jpeg",
     "lon": 72.9902496
   },
@@ -2693,7 +3010,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 175,
+    "num": 196,
     "type": "jpeg",
     "lon": 72.8
   },
@@ -2708,7 +3025,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 176,
+    "num": 197,
     "type": "jpeg",
     "lon": 73.4238968
   },
@@ -2723,7 +3040,7 @@
     "refreshSec": 30,
     "width": 2592,
     "height": 1944,
-    "num": 177,
+    "num": 198,
     "type": "jpeg",
     "lon": 72.969902
   },
@@ -2738,7 +3055,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 178,
+    "num": 199,
     "type": "jpeg",
     "lon": -99.8896713
   },
@@ -2753,7 +3070,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 179,
+    "num": 200,
     "type": "jpeg",
     "lon": -86.85
   },
@@ -2768,7 +3085,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 180,
+    "num": 201,
     "type": "jpeg",
     "lon": -86.7506943
   },
@@ -2784,7 +3101,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 181,
+    "num": 202,
     "live": true,
     "type": "hls",
     "lon": -99.13
@@ -2801,7 +3118,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 182,
+    "num": 203,
     "live": true,
     "type": "hls",
     "lon": -99.66
@@ -2817,7 +3134,7 @@
     "refreshSec": 30,
     "width": 2048,
     "height": 1536,
-    "num": 183,
+    "num": 204,
     "type": "jpeg",
     "lon": 4.5727201
   },
@@ -2832,7 +3149,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 184,
+    "num": 205,
     "type": "jpeg",
     "lon": 4.7512441
   },
@@ -2848,7 +3165,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 185,
+    "num": 206,
     "live": true,
     "type": "hls",
     "lon": 4.9
@@ -2864,7 +3181,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 186,
+    "num": 207,
     "type": "jpeg",
     "lon": 25.9697399
   },
@@ -2877,11 +3194,26 @@
     "lng": 18.35,
     "url": "https://www.yr.no/webcams/1/2000/setermoen/3.jpg",
     "refreshSec": 20,
-    "num": 187,
+    "num": 208,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
     "lon": 18.35
+  },
+  {
+    "id": "nz-auckland",
+    "name": "🏙️ 🇳🇿 Auckland · 帆船之都",
+    "city": "Auckland",
+    "country": "NZ",
+    "lat": -36.85,
+    "lng": 174.76,
+    "url": "https://images.webcamgalore.com/38598-current-webcam-Auckland.jpg",
+    "refreshSec": 15,
+    "width": 1280,
+    "height": 720,
+    "num": 209,
+    "type": "jpeg",
+    "lon": 174.76
   },
   {
     "id": "nz-drury",
@@ -2894,7 +3226,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 188,
+    "num": 210,
     "type": "jpeg",
     "lon": 174.9433746
   },
@@ -2909,7 +3241,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 189,
+    "num": 211,
     "type": "jpeg",
     "lon": 170.5
   },
@@ -2924,9 +3256,24 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 190,
+    "num": 212,
     "type": "jpeg",
     "lon": 170.1
+  },
+  {
+    "id": "nz-wellington",
+    "name": "🇳🇿 Wellington, New Zealand",
+    "city": "Wellington",
+    "country": "NZ",
+    "lat": -41.3269997,
+    "lng": 174.8079987,
+    "url": "https://images.webcamgalore.com/37414-current-webcam-Wellington.jpg",
+    "refreshSec": 30,
+    "width": 1280,
+    "height": 720,
+    "num": 213,
+    "type": "jpeg",
+    "lon": 174.8079987
   },
   {
     "id": "nz-bravo",
@@ -2940,7 +3287,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 191,
+    "num": 214,
     "live": true,
     "type": "hls",
     "lon": 174.76
@@ -2956,7 +3303,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 192,
+    "num": 215,
     "type": "jpeg",
     "lon": -79.6
   },
@@ -2971,7 +3318,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 193,
+    "num": 216,
     "type": "jpeg",
     "lon": 20.1
   },
@@ -2986,7 +3333,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 194,
+    "num": 217,
     "type": "jpeg",
     "lon": 20.1074009
   },
@@ -3001,7 +3348,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 195,
+    "num": 218,
     "type": "jpeg",
     "lon": 20.0942993
   },
@@ -3016,9 +3363,24 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 196,
+    "num": 219,
     "type": "jpeg",
     "lon": 18.01
+  },
+  {
+    "id": "pl-leba",
+    "name": "🇵🇱 Leba, Poland",
+    "city": "Leba",
+    "country": "PL",
+    "lat": 54.7680016,
+    "lng": 17.5636997,
+    "url": "https://images.webcamgalore.com/26931-current-webcam-Leba.jpg",
+    "refreshSec": 30,
+    "width": 1920,
+    "height": 1080,
+    "num": 220,
+    "type": "jpeg",
+    "lon": 17.5636997
   },
   {
     "id": "pl-sopot",
@@ -3031,7 +3393,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 197,
+    "num": 221,
     "type": "jpeg",
     "lon": 18.5681
   },
@@ -3046,7 +3408,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 198,
+    "num": 222,
     "type": "jpeg",
     "lon": 16.8658009
   },
@@ -3061,7 +3423,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 199,
+    "num": 223,
     "type": "jpeg",
     "lon": 19.5496998
   },
@@ -3076,7 +3438,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 200,
+    "num": 224,
     "type": "jpeg",
     "lon": 34.4668007
   },
@@ -3091,7 +3453,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 201,
+    "num": 225,
     "type": "jpeg",
     "lon": -8.8
   },
@@ -3107,7 +3469,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 202,
+    "num": 226,
     "live": true,
     "type": "hls",
     "lon": -9.14
@@ -3121,7 +3483,7 @@
     "lng": 51.53,
     "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
     "refreshSec": 0,
-    "num": 203,
+    "num": 227,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -3141,7 +3503,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 204,
+    "num": 228,
     "live": true,
     "type": "hls",
     "lon": 51.53
@@ -3158,7 +3520,7 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 205,
+    "num": 229,
     "live": true,
     "type": "hls",
     "lon": 51.53
@@ -3174,7 +3536,7 @@
     "refreshSec": 15,
     "width": 4926,
     "height": 2463,
-    "num": 206,
+    "num": 230,
     "type": "jpeg",
     "lon": 55.29
   },
@@ -3189,7 +3551,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 207,
+    "num": 231,
     "type": "jpeg",
     "lon": 55.2206993
   },
@@ -3204,7 +3566,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 208,
+    "num": 232,
     "type": "jpeg",
     "lon": 26.82
   },
@@ -3219,7 +3581,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 209,
+    "num": 233,
     "type": "jpeg",
     "lon": 26.8211002
   },
@@ -3234,7 +3596,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 210,
+    "num": 234,
     "type": "jpeg",
     "lon": 28.65
   },
@@ -3249,7 +3611,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 211,
+    "num": 235,
     "type": "jpeg",
     "lon": 28.5755997
   },
@@ -3265,10 +3627,25 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 212,
+    "num": 236,
     "live": true,
     "type": "hls",
     "lon": 26.1
+  },
+  {
+    "id": "ru-kingisepp",
+    "name": "🏰 🇷🇺 Kingisepp",
+    "city": "Kingisepp",
+    "country": "RU",
+    "lat": 59.37,
+    "lng": 28.6,
+    "url": "https://images.webcamgalore.com/30897-current-webcam-Kingisepp.jpg",
+    "refreshSec": 15,
+    "width": 1280,
+    "height": 960,
+    "num": 237,
+    "type": "jpeg",
+    "lon": 28.6
   },
   {
     "id": "ru-korotetskaya",
@@ -3281,7 +3658,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 213,
+    "num": 238,
     "type": "jpeg",
     "lon": 38.5
   },
@@ -3296,7 +3673,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 214,
+    "num": 239,
     "type": "jpeg",
     "lon": 39.7448006
   },
@@ -3309,7 +3686,7 @@
     "lng": 37.62,
     "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
     "refreshSec": 0,
-    "num": 215,
+    "num": 240,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -3329,7 +3706,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 216,
+    "num": 241,
     "live": true,
     "type": "hls",
     "lon": 46.68
@@ -3345,7 +3722,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 217,
+    "num": 242,
     "type": "jpeg",
     "lon": 11.97
   },
@@ -3361,7 +3738,7 @@
     "refreshSec": 15,
     "width": 640,
     "height": 360,
-    "num": 218,
+    "num": 243,
     "type": "hls",
     "lon": 103.82
   },
@@ -3376,7 +3753,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 219,
+    "num": 244,
     "type": "jpeg",
     "lon": 14.4708996
   },
@@ -3391,7 +3768,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 220,
+    "num": 245,
     "type": "jpeg",
     "lon": 15.3366003
   },
@@ -3406,7 +3783,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 221,
+    "num": 246,
     "type": "jpeg",
     "lon": 15.1774998
   },
@@ -3421,7 +3798,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 222,
+    "num": 247,
     "type": "jpeg",
     "lon": 15.0854998
   },
@@ -3436,7 +3813,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 223,
+    "num": 248,
     "type": "jpeg",
     "lon": 100.5
   },
@@ -3451,7 +3828,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 224,
+    "num": 249,
     "type": "jpeg",
     "lon": 98.99
   },
@@ -3466,7 +3843,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 225,
+    "num": 250,
     "type": "jpeg",
     "lon": 98.4
   },
@@ -3482,7 +3859,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 226,
+    "num": 251,
     "type": "hls",
     "lon": 32.9
   },
@@ -3497,7 +3874,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 227,
+    "num": 252,
     "type": "jpeg",
     "lon": 30.6611252
   },
@@ -3512,7 +3889,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 228,
+    "num": 253,
     "type": "jpeg",
     "lon": 31.2050991
   },
@@ -3528,7 +3905,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 229,
+    "num": 254,
     "type": "hls",
     "lon": 29.0
   },
@@ -3543,7 +3920,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 230,
+    "num": 255,
     "type": "jpeg",
     "lon": 27.1297073
   },
@@ -3558,7 +3935,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 231,
+    "num": 256,
     "type": "jpeg",
     "lon": 31.3644009
   },
@@ -3574,26 +3951,10 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 232,
+    "num": 257,
     "live": true,
     "type": "hls",
     "lon": 28.98
-  },
-  {
-    "id": "tw-bltv",
-    "name": "📡 CGNTV 中文台",
-    "city": "台北",
-    "country": "TW",
-    "lat": 24.13,
-    "lng": 120.68,
-    "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
-    "streamType": "hls",
-    "refreshSec": 15,
-    "width": 1920,
-    "height": 1080,
-    "num": 233,
-    "type": "hls",
-    "lon": 120.68
   },
   {
     "id": "tw-dali",
@@ -3607,7 +3968,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 234,
+    "num": 258,
     "type": "hls",
     "lon": 120.3
   },
@@ -3622,7 +3983,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 235,
+    "num": 259,
     "type": "jpeg",
     "lon": 33.5452995
   },
@@ -3635,7 +3996,7 @@
     "lng": -75.52,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-capehatteras2nd/latest_full.jpg",
     "refreshSec": 12,
-    "num": 236,
+    "num": 260,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3652,7 +4013,7 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 237,
+    "num": 261,
     "type": "jpeg",
     "lon": -71.1466599
   },
@@ -3665,7 +4026,7 @@
     "lng": -114.02,
     "url": "https://www.nps.gov/webcams-glac/ApgarLookout-01.jpg",
     "refreshSec": 15,
-    "num": 238,
+    "num": 262,
     "width": 1920,
     "height": 1080,
     "type": "jpeg",
@@ -3680,7 +4041,7 @@
     "lng": -158.05,
     "url": "https://camstills.cdn-surfline.com/us-west-2/hi-banzaipipeline/latest_full.jpg",
     "refreshSec": 10,
-    "num": 239,
+    "num": 263,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3695,7 +4056,7 @@
     "lng": -157.88,
     "url": "https://camstills.cdn-surfline.com/us-west-2/hi-alamoanabowls/latest_full.jpg",
     "refreshSec": 10,
-    "num": 240,
+    "num": 264,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3710,7 +4071,7 @@
     "lng": -157.8,
     "url": "https://camstills.cdn-surfline.com/us-west-2/hi-waikikibeach/latest_full.jpg",
     "refreshSec": 10,
-    "num": 241,
+    "num": 265,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3725,7 +4086,7 @@
     "lng": -118.15,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-9thstov/latest_full.jpg",
     "refreshSec": 12,
-    "num": 242,
+    "num": 266,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3740,7 +4101,7 @@
     "lng": -81.4,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-jaxpierss/latest_full.jpg",
     "refreshSec": 12,
-    "num": 243,
+    "num": 267,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3755,7 +4116,7 @@
     "lng": -117.25,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-blacksov/latest_full.jpg",
     "refreshSec": 12,
-    "num": 244,
+    "num": 268,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3770,7 +4131,7 @@
     "lng": -74.1,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-manasquan/latest_full.jpg",
     "refreshSec": 12,
-    "num": 245,
+    "num": 269,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3785,7 +4146,7 @@
     "lng": -121.74,
     "url": "https://www.nps.gov/webcams-mora/east.jpg",
     "refreshSec": 15,
-    "num": 246,
+    "num": 270,
     "width": 1920,
     "height": 1080,
     "type": "jpeg",
@@ -3800,7 +4161,7 @@
     "lng": -80.93,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-newsmyrna/latest_full.jpg",
     "refreshSec": 12,
-    "num": 247,
+    "num": 271,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3815,7 +4176,7 @@
     "lng": -73.7,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-rockaway110th/latest_full.jpg",
     "refreshSec": 12,
-    "num": 248,
+    "num": 272,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3830,7 +4191,7 @@
     "lng": -117.75,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-boneyardcloseup/latest_full.jpg",
     "refreshSec": 12,
-    "num": 249,
+    "num": 273,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3845,7 +4206,7 @@
     "lng": -121.97,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-dogpatch/latest_full.jpg",
     "refreshSec": 12,
-    "num": 250,
+    "num": 274,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3860,7 +4221,7 @@
     "lng": -122.33,
     "url": "https://cdn.tegna-media.com/king/weather/roofcam1.jpg",
     "refreshSec": 12,
-    "num": 251,
+    "num": 275,
     "width": 1920,
     "height": 1080,
     "type": "jpeg",
@@ -3875,7 +4236,7 @@
     "lng": -124.11,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-westport/latest_full.jpg",
     "refreshSec": 12,
-    "num": 252,
+    "num": 276,
     "width": 1280,
     "height": 720,
     "type": "jpeg",
@@ -3890,7 +4251,7 @@
     "lng": -110.5,
     "url": "https://www.nps.gov/webcams-yell/east_in.jpg",
     "refreshSec": 15,
-    "num": 253,
+    "num": 277,
     "width": 1920,
     "height": 1080,
     "type": "jpeg",
@@ -3905,7 +4266,7 @@
     "lng": -110.95,
     "url": "https://www.nps.gov/webcams-yell/mammoth_arch.jpg",
     "refreshSec": 15,
-    "num": 254,
+    "num": 278,
     "width": 1920,
     "height": 1080,
     "type": "jpeg",
@@ -3920,7 +4281,7 @@
     "lng": -77.04,
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
     "refreshSec": 0,
-    "num": 255,
+    "num": 279,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -3940,7 +4301,7 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 256,
+    "num": 280,
     "type": "hls",
     "lon": -77.04
   },
@@ -3953,7 +4314,7 @@
     "lng": -86.22,
     "url": "https://30a-tv.com/ln.m3u8",
     "refreshSec": 0,
-    "num": 257,
+    "num": 281,
     "width": 640,
     "height": 360,
     "streamType": "hls",
@@ -3973,7 +4334,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 258,
+    "num": 282,
     "live": true,
     "type": "hls",
     "lon": -86.22
@@ -3990,7 +4351,7 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 259,
+    "num": 283,
     "live": true,
     "type": "hls",
     "lon": -84.28
@@ -4007,7 +4368,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 260,
+    "num": 284,
     "live": true,
     "type": "hls",
     "lon": -76.61
@@ -4021,7 +4382,7 @@
     "lng": -76.61,
     "url": "https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8",
     "refreshSec": 0,
-    "num": 261,
+    "num": 285,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
@@ -4041,7 +4402,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 262,
+    "num": 286,
     "live": true,
     "type": "hls",
     "lon": -83.05
@@ -4055,7 +4416,7 @@
     "lng": -71.46,
     "url": "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8",
     "refreshSec": 0,
-    "num": 263,
+    "num": 287,
     "width": 1280,
     "height": 720,
     "streamType": "hls",
@@ -4075,7 +4436,7 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 264,
+    "num": 288,
     "live": true,
     "type": "hls",
     "lon": -121.49
@@ -4091,7 +4452,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 960,
-    "num": 265,
+    "num": 289,
     "type": "jpeg",
     "lon": -64.7957993
   },
@@ -4106,7 +4467,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 266,
+    "num": 290,
     "type": "jpeg",
     "lon": 108.2460022
   },
@@ -4121,7 +4482,7 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 267,
+    "num": 291,
     "type": "jpeg",
     "lon": 108.1930008
   },
@@ -4137,7 +4498,7 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 268,
+    "num": 292,
     "type": "jpeg",
     "lon": 18.42
   },
@@ -4153,7 +4514,7 @@
     "refreshSec": 15,
     "width": 3840,
     "height": 2160,
-    "num": 269,
+    "num": 293,
     "type": "jpeg",
     "lon": 31.03
   }
