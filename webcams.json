@@ -10,7 +10,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 1
+    "num": 1,
+    "type": "jpeg",
+    "lon": 55.4415016
   },
   {
     "id": "af-afintl",
@@ -25,7 +27,9 @@
     "streamType": "hls",
     "refreshSec": 0,
     "num": 2,
-    "live": true
+    "live": true,
+    "type": "hls",
+    "lon": 69.17
   },
   {
     "id": "aq-halley",
@@ -38,7 +42,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 3
+    "num": 3,
+    "type": "jpeg",
+    "lon": -26.54
   },
   {
     "id": "aq-south-pole",
@@ -51,7 +57,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 960,
-    "num": 4
+    "num": 4,
+    "type": "jpeg",
+    "lon": 45.0
   },
   {
     "id": "aq-troll",
@@ -64,7 +72,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 5
+    "num": 5,
+    "type": "jpeg",
+    "lon": 2.55
   },
   {
     "id": "ar-mendoza",
@@ -77,7 +87,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 6
+    "num": 6,
+    "type": "jpeg",
+    "lon": -68.8440475
   },
   {
     "id": "ar-tandil",
@@ -90,7 +102,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 7
+    "num": 7,
+    "type": "jpeg",
+    "lon": -59.1319008
   },
   {
     "id": "at-innsbruck",
@@ -103,7 +117,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 8
+    "num": 8,
+    "type": "jpeg",
+    "lon": 11.4
   },
   {
     "id": "at-innsbruck-2",
@@ -116,20 +132,9 @@
     "refreshSec": 30,
     "width": 3840,
     "height": 2160,
-    "num": 9
-  },
-  {
-    "id": "at-salzburg",
-    "name": "🏰 萨尔茨堡 · 莫扎特之城",
-    "city": "Salzburg",
-    "country": "AT",
-    "lat": 47.81,
-    "lng": 13.04,
-    "url": "https://images.webcamgalore.com/38450-current-webcam-Salzburg.jpg",
-    "refreshSec": 15,
-    "width": 1280,
-    "height": 720,
-    "num": 10
+    "num": 9,
+    "type": "jpeg",
+    "lon": 11.3933372
   },
   {
     "id": "au-alice-springs",
@@ -142,7 +147,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 11
+    "num": 10,
+    "type": "jpeg",
+    "lon": 133.88
   },
   {
     "id": "au-norfolk-island",
@@ -155,7 +162,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 12
+    "num": 11,
+    "type": "jpeg",
+    "lon": 167.95
   },
   {
     "id": "au-cairns",
@@ -168,7 +177,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 13
+    "num": 12,
+    "type": "jpeg",
+    "lon": 145.77
   },
   {
     "id": "au-carrum",
@@ -181,7 +192,9 @@
     "refreshSec": 15,
     "width": 2560,
     "height": 1440,
-    "num": 14
+    "num": 13,
+    "type": "jpeg",
+    "lon": 145.12
   },
   {
     "id": "au-christmas-island",
@@ -194,20 +207,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 15
-  },
-  {
-    "id": "au-darwin",
-    "name": "🌴 🇦🇺 Darwin · 北领地",
-    "city": "Darwin",
-    "country": "AU",
-    "lat": -12.46,
-    "lng": 130.84,
-    "url": "https://images.webcamgalore.com/34255-current-webcam-Darwin.jpg",
-    "refreshSec": 15,
-    "width": 3840,
-    "height": 2160,
-    "num": 16
+    "num": 14,
+    "type": "jpeg",
+    "lon": 105.63
   },
   {
     "id": "au-eton",
@@ -220,7 +222,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 17
+    "num": 15,
+    "type": "jpeg",
+    "lon": 148.97
   },
   {
     "id": "au-hamilton-island",
@@ -233,7 +237,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 18
+    "num": 16,
+    "type": "jpeg",
+    "lon": 148.96
   },
   {
     "id": "au-hobart",
@@ -246,20 +252,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 19
-  },
-  {
-    "id": "au-jabiru",
-    "name": "🐊 🇦🇺 Jabiru · 卡卡杜",
-    "city": "Jabiru",
-    "country": "AU",
-    "lat": -12.67,
-    "lng": 132.83,
-    "url": "https://images.webcamgalore.com/36961-current-webcam-Jabiru.jpg",
-    "refreshSec": 15,
-    "width": 1920,
-    "height": 1080,
-    "num": 20
+    "num": 17,
+    "type": "jpeg",
+    "lon": 147.33
   },
   {
     "id": "au-kalgoorlie-boulder",
@@ -272,7 +267,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 21
+    "num": 18,
+    "type": "jpeg",
+    "lon": 121.4589996
   },
   {
     "id": "au-linley-point",
@@ -285,20 +282,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 22
-  },
-  {
-    "id": "au-sydney",
-    "name": "🏙️ 悉尼 · 全景",
-    "city": "Sydney",
-    "country": "AU",
-    "lat": -33.87,
-    "lng": 151.21,
-    "url": "https://admin.meteobridge.com/cam/9c25cda08544cf0db24b350b27d1e5f5/camplus.jpg",
-    "refreshSec": 15,
-    "num": 23,
-    "width": 1280,
-    "height": 720
+    "num": 19,
+    "type": "jpeg",
+    "lon": 151.151001
   },
   {
     "id": "au-abcnews",
@@ -312,7 +298,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 24
+    "num": 20,
+    "type": "hls",
+    "lon": 151.2
   },
   {
     "id": "be-antwerp",
@@ -325,7 +313,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 25
+    "num": 21,
+    "type": "jpeg",
+    "lon": 4.4
   },
   {
     "id": "be-oostduinkerke",
@@ -338,7 +328,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 26
+    "num": 22,
+    "type": "jpeg",
+    "lon": 2.6745701
   },
   {
     "id": "br-rio",
@@ -351,7 +343,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 27
+    "num": 23,
+    "type": "jpeg",
+    "lon": -43.18
   },
   {
     "id": "br-agromais",
@@ -365,8 +359,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 28,
-    "live": true
+    "num": 24,
+    "live": true,
+    "type": "hls",
+    "lon": -46.63
   },
   {
     "id": "ca-addenbroke",
@@ -379,7 +375,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 29
+    "num": 25,
+    "type": "jpeg",
+    "lon": -127.86
   },
   {
     "id": "ca-anahim-lake",
@@ -392,20 +390,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 30
-  },
-  {
-    "id": "ca-arnprior",
-    "name": "🍁 安普赖尔 · 渥太华谷",
-    "city": "Arnprior",
-    "country": "CA",
-    "lat": 45.43,
-    "lng": -76.36,
-    "url": "https://images.webcamgalore.com/20888-current-webcam-Arnprior.jpg",
-    "refreshSec": 15,
-    "width": 800,
-    "height": 600,
-    "num": 31
+    "num": 26,
+    "type": "jpeg",
+    "lon": -125.32
   },
   {
     "id": "ca-atlin",
@@ -418,7 +405,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 32
+    "num": 27,
+    "type": "jpeg",
+    "lon": -133.72
   },
   {
     "id": "ca-attawapiskat",
@@ -431,7 +420,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 33
+    "num": 28,
+    "type": "jpeg",
+    "lon": -82.43
   },
   {
     "id": "ca-bella-bella",
@@ -444,7 +435,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 34
+    "num": 29,
+    "type": "jpeg",
+    "lon": -128.14
   },
   {
     "id": "ca-burns-lake",
@@ -457,20 +450,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 35
-  },
-  {
-    "id": "ca-coleman",
-    "name": "🏔️ 科尔曼 · 落基山隘",
-    "city": "Coleman",
-    "country": "CA",
-    "lat": 49.64,
-    "lng": -114.5,
-    "url": "https://images.webcamgalore.com/20905-current-webcam-Coleman.jpg",
-    "refreshSec": 15,
-    "width": 800,
-    "height": 600,
-    "num": 36
+    "num": 30,
+    "type": "jpeg",
+    "lon": -125.76
   },
   {
     "id": "ca-gore-bay",
@@ -483,7 +465,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 37
+    "num": 31,
+    "type": "jpeg",
+    "lon": -82.47
   },
   {
     "id": "ca-halifax",
@@ -496,7 +480,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 38
+    "num": 32,
+    "type": "jpeg",
+    "lon": -63.57
   },
   {
     "id": "ca-mavillette",
@@ -509,7 +495,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 39
+    "num": 33,
+    "type": "jpeg",
+    "lon": -66.1837997
   },
   {
     "id": "ca-ottawa",
@@ -522,7 +510,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 40
+    "num": 34,
+    "type": "jpeg",
+    "lon": -75.69
   },
   {
     "id": "ca-port-alberni",
@@ -535,7 +525,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 41
+    "num": 35,
+    "type": "jpeg",
+    "lon": -124.8
   },
   {
     "id": "ca-prince-rupert",
@@ -548,7 +540,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 42
+    "num": 36,
+    "type": "jpeg",
+    "lon": -130.32
   },
   {
     "id": "ca-sherbrooke",
@@ -561,7 +555,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 43
+    "num": 37,
+    "type": "jpeg",
+    "lon": -71.89
   },
   {
     "id": "ca-ucluelet",
@@ -574,7 +570,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 44
+    "num": 38,
+    "type": "jpeg",
+    "lon": -125.55
   },
   {
     "id": "ca-vanderhoof",
@@ -587,7 +585,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 45
+    "num": 39,
+    "type": "jpeg",
+    "lon": -124.01
   },
   {
     "id": "ca-vernon",
@@ -600,20 +600,9 @@
     "refreshSec": 15,
     "width": 800,
     "height": 600,
-    "num": 46
-  },
-  {
-    "id": "ch-oberwil-im-simmental",
-    "name": "🇨🇭 Oberwil im Simmental, Switzerland",
-    "city": "Oberwil im Simmental",
-    "country": "CH",
-    "lat": 46.6571007,
-    "lng": 7.4313898,
-    "url": "https://images.webcamgalore.com/11902-current-webcam-Oberwil-im-Simmental.jpg",
-    "refreshSec": 30,
-    "width": 1280,
-    "height": 960,
-    "num": 47
+    "num": 40,
+    "type": "jpeg",
+    "lon": -119.27
   },
   {
     "id": "cl-cerro-tololo",
@@ -626,7 +615,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 48
+    "num": 41,
+    "type": "jpeg",
+    "lon": -70.8065033
   },
   {
     "id": "cl-punta-arenas",
@@ -639,7 +630,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 49
+    "num": 42,
+    "type": "jpeg",
+    "lon": -70.8431015
   },
   {
     "id": "cn-banquiao",
@@ -652,7 +645,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 50
+    "num": 43,
+    "type": "jpeg",
+    "lon": 102.7
   },
   {
     "id": "cn-beijing",
@@ -665,7 +660,9 @@
     "refreshSec": 15,
     "width": 4406,
     "height": 3264,
-    "num": 51
+    "num": 44,
+    "type": "jpeg",
+    "lon": 116.4
   },
   {
     "id": "cn-chengde",
@@ -678,7 +675,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 52
+    "num": 45,
+    "type": "jpeg",
+    "lon": 117.9
   },
   {
     "id": "cn-chengdu",
@@ -691,7 +690,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 53
+    "num": 46,
+    "type": "jpeg",
+    "lon": 104.1
   },
   {
     "id": "cn-dunhuang",
@@ -704,7 +705,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 54
+    "num": 47,
+    "type": "jpeg",
+    "lon": 94.7
   },
   {
     "id": "cn-fenghuang",
@@ -717,7 +720,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 55
+    "num": 48,
+    "type": "jpeg",
+    "lon": 109.6
   },
   {
     "id": "cn-gubeikou",
@@ -730,7 +735,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 56
+    "num": 49,
+    "type": "jpeg",
+    "lon": 117.1
   },
   {
     "id": "cn-hong-kong",
@@ -743,7 +750,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 57
+    "num": 50,
+    "type": "jpeg",
+    "lon": 114.3010025
   },
   {
     "id": "cn-huanglong",
@@ -756,7 +765,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 58
+    "num": 51,
+    "type": "jpeg",
+    "lon": 103.822998
   },
   {
     "id": "cn-nanjing",
@@ -769,7 +780,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 59
+    "num": 52,
+    "type": "jpeg",
+    "lon": 118.7549973
   },
   {
     "id": "cn-yunhe1",
@@ -783,63 +796,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 60
-  },
-  {
-    "id": "cn-cgtn",
-    "name": "🌐 CGTN 英语新闻",
-    "city": "北京",
-    "country": "CN",
-    "lat": 39.9,
-    "lng": 117.3,
-    "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
-    "refreshSec": 99,
-    "width": 1920,
-    "height": 1080,
-    "streamType": "hls",
-    "num": 61
-  },
-  {
-    "id": "cn-cctv1",
-    "name": "📺 CCTV-1 综合",
-    "city": "北京",
-    "country": "CN",
-    "lat": 39.9,
-    "lng": 116.4,
-    "url": "https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 62
-  },
-  {
-    "id": "cn-cctv15-1080p",
-    "name": "📺 CCTV-15 音乐",
-    "city": "北京",
-    "country": "CN",
-    "lat": 39.9,
-    "lng": 116.7,
-    "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
-    "refreshSec": 99,
-    "width": 1920,
-    "height": 1080,
-    "streamType": "hls",
-    "num": 63
-  },
-  {
-    "id": "cn-cctv9",
-    "name": "📺 CCTV-9 纪录",
-    "city": "北京",
-    "country": "CN",
-    "lat": 39.9,
-    "lng": 117.0,
-    "url": "https://xykt-fix.github.io/Y77.m3u8",
-    "refreshSec": 99,
-    "width": 1920,
-    "height": 1080,
-    "streamType": "hls",
-    "num": 64
+    "num": 53,
+    "type": "hls",
+    "lon": 119.57
   },
   {
     "id": "cn-cndfilm",
@@ -853,7 +812,73 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 65
+    "num": 54,
+    "type": "hls",
+    "lon": 117.6
+  },
+  {
+    "id": "cn-cctv1",
+    "name": "📺 CCTV-1 综合",
+    "city": "北京",
+    "country": "CN",
+    "lat": 39.9,
+    "lng": 116.4,
+    "url": "https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8",
+    "refreshSec": 99,
+    "width": 1280,
+    "height": 720,
+    "streamType": "hls",
+    "num": 55,
+    "type": "hls",
+    "lon": 116.4
+  },
+  {
+    "id": "cn-cgtn",
+    "name": "🌐 CGTN 英语新闻",
+    "city": "北京",
+    "country": "CN",
+    "lat": 39.9,
+    "lng": 117.3,
+    "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
+    "refreshSec": 99,
+    "width": 1920,
+    "height": 1080,
+    "streamType": "hls",
+    "num": 56,
+    "type": "hls",
+    "lon": 117.3
+  },
+  {
+    "id": "cn-cctv9",
+    "name": "📺 CCTV-9 纪录",
+    "city": "北京",
+    "country": "CN",
+    "lat": 39.9,
+    "lng": 117.0,
+    "url": "https://xykt-fix.github.io/Y77.m3u8",
+    "refreshSec": 99,
+    "width": 1920,
+    "height": 1080,
+    "streamType": "hls",
+    "num": 57,
+    "type": "hls",
+    "lon": 117.0
+  },
+  {
+    "id": "cn-cctv15-1080p",
+    "name": "📺 CCTV-15 音乐",
+    "city": "北京",
+    "country": "CN",
+    "lat": 39.9,
+    "lng": 116.7,
+    "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
+    "refreshSec": 99,
+    "width": 1920,
+    "height": 1080,
+    "streamType": "hls",
+    "num": 58,
+    "type": "hls",
+    "lon": 116.7
   },
   {
     "id": "cn-shengzhou",
@@ -867,7 +892,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 66
+    "num": 59,
+    "type": "hls",
+    "lon": 120.82
   },
   {
     "id": "cn-pinghu1",
@@ -881,21 +908,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 67
-  },
-  {
-    "id": "cn-guangzhou",
-    "name": "📺 广州综合",
-    "city": "广州",
-    "country": "CN",
-    "lat": 23.1,
-    "lng": 113.3,
-    "url": "https://liveplay-srs.voc.com.cn/hls/tv/138_180adf.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 68
+    "num": 60,
+    "type": "hls",
+    "lon": 121.02
   },
   {
     "id": "cn-zhangjiajie",
@@ -909,7 +924,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "jpeg",
-    "num": 69
+    "num": 61,
+    "type": "jpeg",
+    "lon": 110.48
   },
   {
     "id": "cn-songyang",
@@ -923,7 +940,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 70
+    "num": 62,
+    "type": "hls",
+    "lon": 119.48
   },
   {
     "id": "cn-shangyu",
@@ -937,8 +956,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 71,
-    "live": true
+    "num": 63,
+    "live": true,
+    "type": "hls",
+    "lon": 120.87
   },
   {
     "id": "cn-jinyun1",
@@ -952,7 +973,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 72
+    "num": 64,
+    "type": "hls",
+    "lon": 120.09
   },
   {
     "id": "cn-xiaoshan1",
@@ -966,7 +989,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 73
+    "num": 65,
+    "type": "hls",
+    "lon": 120.26
   },
   {
     "id": "cn-zhuji",
@@ -980,7 +1005,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 74
+    "num": 66,
+    "type": "hls",
+    "lon": 120.24
   },
   {
     "id": "cn-xiangshan",
@@ -994,21 +1021,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 75
-  },
-  {
-    "id": "cn-hunan",
-    "name": "📺 湖南卫视",
-    "city": "长沙",
-    "country": "CN",
-    "lat": 28.2,
-    "lng": 113.0,
-    "url": "https://liveplay-srs.voc.com.cn/hls/tv/135_180adf.m3u8",
-    "refreshSec": 99,
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "num": 76
+    "num": 67,
+    "type": "hls",
+    "lon": 121.87
   },
   {
     "id": "cn-qingtian",
@@ -1022,7 +1037,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 77
+    "num": 68,
+    "type": "hls",
+    "lon": 120.29
   },
   {
     "id": "cn-longquan",
@@ -1036,7 +1053,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 78
+    "num": 69,
+    "type": "hls",
+    "lon": 119.14
   },
   {
     "id": "cn-longyou1",
@@ -1050,7 +1069,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 79
+    "num": 70,
+    "type": "hls",
+    "lon": 119.17
   },
   {
     "id": "cz-prague",
@@ -1063,7 +1084,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 80
+    "num": 71,
+    "type": "jpeg",
+    "lon": 14.42
   },
   {
     "id": "de-ahlbeck-usedom",
@@ -1076,20 +1099,9 @@
     "refreshSec": 15,
     "width": 2048,
     "height": 1536,
-    "num": 81
-  },
-  {
-    "id": "de-grosspoesna",
-    "name": "🇩🇪 Grosspoesna, Germany",
-    "city": "Grosspoesna",
-    "country": "DE",
-    "lat": 51.2675018,
-    "lng": 12.4975004,
-    "url": "https://images.webcamgalore.com/38325-current-webcam-Grosspoesna.jpg",
-    "refreshSec": 30,
-    "width": 3840,
-    "height": 2160,
-    "num": 82
+    "num": 72,
+    "type": "jpeg",
+    "lon": 14.19
   },
   {
     "id": "de-hamburg",
@@ -1102,7 +1114,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 83
+    "num": 73,
+    "type": "jpeg",
+    "lon": 9.7503662
   },
   {
     "id": "de-metten",
@@ -1115,7 +1129,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 84
+    "num": 74,
+    "type": "jpeg",
+    "lon": 12.9173002
   },
   {
     "id": "de-rathenow",
@@ -1128,7 +1144,9 @@
     "refreshSec": 30,
     "width": 1600,
     "height": 1200,
-    "num": 85
+    "num": 75,
+    "type": "jpeg",
+    "lon": 12.3413
   },
   {
     "id": "de-dasding",
@@ -1142,7 +1160,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 86
+    "num": 76,
+    "type": "hls",
+    "lon": 9.2
   },
   {
     "id": "dk-aalborg",
@@ -1155,20 +1175,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 87
-  },
-  {
-    "id": "dk-fanoe",
-    "name": "🏖️ 🇩🇰 Fanoe",
-    "city": "Fanoe",
-    "country": "DK",
-    "lat": 55.41,
-    "lng": 8.4,
-    "url": "https://images.webcamgalore.com/33383-current-webcam-Fanoe.jpg",
-    "refreshSec": 15,
-    "width": 1920,
-    "height": 1080,
-    "num": 88
+    "num": 77,
+    "type": "jpeg",
+    "lon": 9.9676504
   },
   {
     "id": "dk-hou",
@@ -1181,7 +1190,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 89
+    "num": 78,
+    "type": "jpeg",
+    "lon": 10.3776169
   },
   {
     "id": "do-bayahibe",
@@ -1194,7 +1205,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 90
+    "num": 79,
+    "type": "jpeg",
+    "lon": -68.8085022
   },
   {
     "id": "do-acntv",
@@ -1208,8 +1221,10 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 91,
-    "live": true
+    "num": 80,
+    "live": true,
+    "type": "hls",
+    "lon": -69.93
   },
   {
     "id": "ee-tallinn",
@@ -1222,7 +1237,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 92
+    "num": 81,
+    "type": "jpeg",
+    "lon": 24.7548008
   },
   {
     "id": "eg-alexandria",
@@ -1235,7 +1252,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 93
+    "num": 82,
+    "type": "jpeg",
+    "lon": 29.9092999
   },
   {
     "id": "eg-el-gouna",
@@ -1248,7 +1267,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 94
+    "num": 83,
+    "type": "jpeg",
+    "lon": 33.6567078
   },
   {
     "id": "eg-giza",
@@ -1261,7 +1282,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 95
+    "num": 84,
+    "type": "jpeg",
+    "lon": 31.1401005
   },
   {
     "id": "eg-hurghada",
@@ -1274,7 +1297,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 96
+    "num": 85,
+    "type": "jpeg",
+    "lon": 33.8303375
   },
   {
     "id": "eg-safaga",
@@ -1287,20 +1312,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 97
-  },
-  {
-    "id": "es-a-coruna",
-    "name": "🌊 🇪🇸 A Coruna",
-    "city": "A Coruna",
-    "country": "ES",
-    "lat": 43.37,
-    "lng": -8.4,
-    "url": "https://images.webcamgalore.com/33601-current-webcam-A-Coruna.jpg",
-    "refreshSec": 15,
-    "width": 1920,
-    "height": 1080,
-    "num": 98
+    "num": 86,
+    "type": "jpeg",
+    "lon": 33.9385681
   },
   {
     "id": "es-jerez-de-la-frontera",
@@ -1313,20 +1327,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 99
-  },
-  {
-    "id": "es-port-de-pollenca-majorca",
-    "name": "🇪🇸 Port de Pollenca Majorca, Spain",
-    "city": "Port de Pollenca Majorca",
-    "country": "ES",
-    "lat": 39.8638,
-    "lng": 3.0926099,
-    "url": "https://images.webcamgalore.com/19114-current-webcam-Port-de-Pollenca-Majorca.jpg",
-    "refreshSec": 30,
-    "width": 1920,
-    "height": 1080,
-    "num": 100
+    "num": 87,
+    "type": "jpeg",
+    "lon": -6.137238
   },
   {
     "id": "es-roses",
@@ -1339,7 +1342,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 101
+    "num": 88,
+    "type": "jpeg",
+    "lon": 3.1512301
   },
   {
     "id": "es-3catbeauties",
@@ -1353,8 +1358,10 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 102,
-    "live": true
+    "num": 89,
+    "live": true,
+    "type": "hls",
+    "lon": 2.17
   },
   {
     "id": "es-canal324",
@@ -1365,11 +1372,13 @@
     "lng": 2.17,
     "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
     "refreshSec": 0,
-    "num": 103,
+    "num": 90,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "live": true
+    "live": true,
+    "type": "hls",
+    "lon": 2.17
   },
   {
     "id": "fi-helsinki",
@@ -1380,22 +1389,11 @@
     "lng": 24.948,
     "url": "https://weathercam.digitraffic.fi/C0151301.jpg",
     "refreshSec": 10,
-    "num": 104,
+    "num": 91,
     "width": 1280,
-    "height": 720
-  },
-  {
-    "id": "fi-ruka",
-    "name": "🇫🇮 Ruka, Finland",
-    "city": "Ruka",
-    "country": "FI",
-    "lat": 66.1713028,
-    "lng": 29.1506004,
-    "url": "https://images.webcamgalore.com/36484-current-webcam-Ruka.jpg",
-    "refreshSec": 30,
-    "width": 1920,
-    "height": 1280,
-    "num": 105
+    "height": 720,
+    "type": "jpeg",
+    "lon": 24.948
   },
   {
     "id": "fi-turku",
@@ -1406,9 +1404,11 @@
     "lng": 22.29,
     "url": "https://weathercam.digitraffic.fi/C0252001.jpg",
     "refreshSec": 10,
-    "num": 106,
+    "num": 92,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": 22.29
   },
   {
     "id": "fo-leirvik",
@@ -1421,46 +1421,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 107
-  },
-  {
-    "id": "fr-abries",
-    "name": "🏔️ 🇫🇷 Abries",
-    "city": "Abries",
-    "country": "FR",
-    "lat": 44.8,
-    "lng": 6.93,
-    "url": "https://images.webcamgalore.com/20565-current-webcam-Abries.jpg",
-    "refreshSec": 15,
-    "width": 1920,
-    "height": 1080,
-    "num": 108
-  },
-  {
-    "id": "fr-ajaccio-corsica",
-    "name": "🏝️ 🇫🇷 Ajaccio Corsica",
-    "city": "Ajaccio Corsica",
-    "country": "FR",
-    "lat": 41.92,
-    "lng": 8.74,
-    "url": "https://images.webcamgalore.com/739-current-webcam-Ajaccio-Corsica.jpg",
-    "refreshSec": 15,
-    "width": 3072,
-    "height": 1728,
-    "num": 109
-  },
-  {
-    "id": "fr-la-chevroliere",
-    "name": "🇫🇷 La Chevroliere, France",
-    "city": "La Chevroliere",
-    "country": "FR",
-    "lat": 47.0979996,
-    "lng": -1.6377,
-    "url": "https://images.webcamgalore.com/35745-current-webcam-La-Chevroliere.jpg",
-    "refreshSec": 30,
-    "width": 3510,
-    "height": 1755,
-    "num": 110
+    "num": 93,
+    "type": "jpeg",
+    "lon": -6.7065001
   },
   {
     "id": "fr-la-tranche-sur-mer",
@@ -1473,7 +1436,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 111
+    "num": 94,
+    "type": "jpeg",
+    "lon": -1.47539
   },
   {
     "id": "fr-euronews",
@@ -1487,21 +1452,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 112
-  },
-  {
-    "id": "fr-bfmbusiness",
-    "name": "💼 BFM Business · 法国",
-    "city": "Paris",
-    "country": "FR",
-    "lat": 48.5,
-    "lng": 2.8,
-    "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
-    "streamType": "hls",
-    "refreshSec": 15,
-    "width": 960,
-    "height": 540,
-    "num": 113
+    "num": 95,
+    "type": "hls",
+    "lon": 4.8
   },
   {
     "id": "fr-france24ar",
@@ -1515,7 +1468,25 @@
     "refreshSec": 15,
     "width": 640,
     "height": 360,
-    "num": 114
+    "num": 96,
+    "type": "hls",
+    "lon": 2.3
+  },
+  {
+    "id": "fr-bfmbusiness",
+    "name": "💼 BFM Business · 法国",
+    "city": "Paris",
+    "country": "FR",
+    "lat": 48.5,
+    "lng": 2.8,
+    "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+    "streamType": "hls",
+    "refreshSec": 15,
+    "width": 960,
+    "height": 540,
+    "num": 97,
+    "type": "hls",
+    "lon": 2.8
   },
   {
     "id": "fr-seignosse",
@@ -1528,7 +1499,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 115
+    "num": 98,
+    "type": "jpeg",
+    "lon": -1.43823
   },
   {
     "id": "gb-edinburgh",
@@ -1541,7 +1514,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 960,
-    "num": 116
+    "num": 99,
+    "type": "jpeg",
+    "lon": -3.19
   },
   {
     "id": "gb-london",
@@ -1554,7 +1529,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 117
+    "num": 100,
+    "type": "jpeg",
+    "lon": -0.13
   },
   {
     "id": "gb-ramsgate",
@@ -1567,7 +1544,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 118
+    "num": 101,
+    "type": "jpeg",
+    "lon": 1.4166667
   },
   {
     "id": "gb-92news",
@@ -1581,21 +1560,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 119,
-    "live": true
-  },
-  {
-    "id": "gl-freya-glacier",
-    "name": "🧊 🇬🇱 Freya Glacier · 格陵兰",
-    "city": "Freya Glacier",
-    "country": "GL",
-    "lat": 74.38,
-    "lng": -20.84,
-    "url": "https://images.webcamgalore.com/28893-current-webcam-Freya-Glacier.jpg",
-    "refreshSec": 15,
-    "width": 1920,
-    "height": 1080,
-    "num": 120
+    "num": 102,
+    "live": true,
+    "type": "hls",
+    "lon": -0.13
   },
   {
     "id": "gl-ilulissat",
@@ -1608,20 +1576,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 121
-  },
-  {
-    "id": "gl-kangerlussuaq",
-    "name": "🧊 🇬🇱 Kangerlussuaq · 北极圈",
-    "city": "Kangerlussuaq",
-    "country": "GL",
-    "lat": 67.01,
-    "lng": -50.69,
-    "url": "https://images.webcamgalore.com/35846-current-webcam-Kangerlussuaq.jpg",
-    "refreshSec": 15,
-    "width": 1280,
-    "height": 720,
-    "num": 122
+    "num": 103,
+    "type": "jpeg",
+    "lon": -51.1
   },
   {
     "id": "gl-kulusuk",
@@ -1634,7 +1591,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 123
+    "num": 104,
+    "type": "jpeg",
+    "lon": -37.18
   },
   {
     "id": "gr-santorini",
@@ -1647,7 +1606,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 124
+    "num": 105,
+    "type": "jpeg",
+    "lon": 25.46
   },
   {
     "id": "gt-guatemala-city",
@@ -1660,7 +1621,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 125
+    "num": 106,
+    "type": "jpeg",
+    "lon": -90.51
   },
   {
     "id": "cn-cheungchau",
@@ -1673,7 +1636,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 126
+    "num": 107,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-clearbay",
@@ -1686,20 +1651,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 127
-  },
-  {
-    "id": "cn-hk-airport",
-    "name": "✈️ 🇭🇰 香港机场",
-    "city": "HK Airport",
-    "country": "HK",
-    "lat": 19.7,
-    "lng": 115.3,
-    "url": "https://images.webcamgalore.com/34879-current-webcam-Hong-Kong.jpg",
-    "refreshSec": 15,
-    "width": 1280,
-    "height": 720,
-    "num": 128
+    "num": 108,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-icc-se",
@@ -1712,7 +1666,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 129
+    "num": 109,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-icc-sw",
@@ -1725,7 +1681,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 130
+    "num": 110,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-kadoorie",
@@ -1738,7 +1696,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 131
+    "num": 111,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-kowloon-city",
@@ -1751,7 +1711,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 132
+    "num": 112,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-laufaushan",
@@ -1764,7 +1726,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 133
+    "num": 113,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-pengchau",
@@ -1777,7 +1741,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 134
+    "num": 114,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-saikung",
@@ -1790,7 +1756,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 135
+    "num": 115,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-saiwanho",
@@ -1803,20 +1771,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 136
-  },
-  {
-    "id": "cn-sheungshui",
-    "name": "🏫 🇭🇰 上水 · 西北",
-    "city": "Sheung Shui",
-    "country": "HK",
-    "lat": 19.1,
-    "lng": 115.3,
-    "url": "https://images.webcamgalore.com/34881-current-webcam-Hong-Kong.jpg",
-    "refreshSec": 15,
-    "width": 1280,
-    "height": 720,
-    "num": 137
+    "num": 116,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-taipokau",
@@ -1829,20 +1786,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 138
-  },
-  {
-    "id": "cn-tsimshatsui",
-    "name": "🏙️ 🇭🇰 尖沙咀 · 维港",
-    "city": "Tsim Sha Tsui",
-    "country": "HK",
-    "lat": 21.2,
-    "lng": 115.3,
-    "url": "https://images.webcamgalore.com/34868-current-webcam-Hong-Kong.jpg",
-    "refreshSec": 15,
-    "width": 1280,
-    "height": 720,
-    "num": 139
+    "num": 117,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-victoria-harbour",
@@ -1855,7 +1801,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 140
+    "num": 118,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-victoria-peak2",
@@ -1868,7 +1816,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 141
+    "num": 119,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-wetland",
@@ -1881,7 +1831,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 142
+    "num": 120,
+    "type": "jpeg",
+    "lon": 115.3
   },
   {
     "id": "cn-breadtv",
@@ -1895,7 +1847,9 @@
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "num": 143
+    "num": 121,
+    "type": "hls",
+    "lon": 114.2
   },
   {
     "id": "hr-bale",
@@ -1908,7 +1862,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 144
+    "num": 122,
+    "type": "jpeg",
+    "lon": 13.78
   },
   {
     "id": "hr-flengi",
@@ -1921,7 +1877,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 145
+    "num": 123,
+    "type": "jpeg",
+    "lon": 13.6648569
   },
   {
     "id": "hr-samobor",
@@ -1934,7 +1892,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 146
+    "num": 124,
+    "type": "jpeg",
+    "lon": 15.7103996
   },
   {
     "id": "hr-seline",
@@ -1947,7 +1907,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 147
+    "num": 125,
+    "type": "jpeg",
+    "lon": 15.4752998
   },
   {
     "id": "hr-umag",
@@ -1960,7 +1922,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 148
+    "num": 126,
+    "type": "jpeg",
+    "lon": 13.5396004
   },
   {
     "id": "hu-veszprem",
@@ -1973,7 +1937,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 149
+    "num": 127,
+    "type": "jpeg",
+    "lon": 17.91
   },
   {
     "id": "hu-oxygen",
@@ -1987,8 +1953,10 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 150,
-    "live": true
+    "num": 128,
+    "live": true,
+    "type": "hls",
+    "lon": 19.04
   },
   {
     "id": "id-gianyar-bali",
@@ -2001,7 +1969,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 151
+    "num": 129,
+    "type": "jpeg",
+    "lon": 115.3389969
   },
   {
     "id": "id-tangkubanperahu",
@@ -2014,7 +1984,9 @@
     "refreshSec": 15,
     "width": 2348,
     "height": 1920,
-    "num": 152
+    "num": 130,
+    "type": "jpeg",
+    "lon": 107.6
   },
   {
     "id": "ie-dublin",
@@ -2027,7 +1999,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 153
+    "num": 131,
+    "type": "jpeg",
+    "lon": -6.26
   },
   {
     "id": "il-tel-aviv",
@@ -2040,7 +2014,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 154
+    "num": 132,
+    "type": "jpeg",
+    "lon": 34.7817993
   },
   {
     "id": "in-bir",
@@ -2053,7 +2029,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 155
+    "num": 133,
+    "type": "jpeg",
+    "lon": 76.7
   },
   {
     "id": "in-delhi",
@@ -2066,7 +2044,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 156
+    "num": 134,
+    "type": "jpeg",
+    "lon": 77.2229996
   },
   {
     "id": "in-tiruvannamalai",
@@ -2079,7 +2059,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 157
+    "num": 135,
+    "type": "jpeg",
+    "lon": 79.07
   },
   {
     "id": "in-anandabarta",
@@ -2093,8 +2075,10 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 158,
-    "live": true
+    "num": 136,
+    "live": true,
+    "type": "hls",
+    "lon": 88.36
   },
   {
     "id": "in-aajtak",
@@ -2105,26 +2089,13 @@
     "lng": 77.23,
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "refreshSec": 0,
-    "num": 159,
+    "num": 137,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "live": true
-  },
-  {
-    "id": "in-abn-andhra",
-    "name": "📡 ABN Andhra Jyoti",
-    "city": "海得拉巴",
-    "country": "IN",
-    "lat": 17.39,
-    "lng": 78.49,
-    "url": "https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8",
-    "width": 1280,
-    "height": 720,
-    "streamType": "hls",
-    "refreshSec": 0,
-    "num": 160,
-    "live": true
+    "live": true,
+    "type": "hls",
+    "lon": 77.23
   },
   {
     "id": "in-10tv",
@@ -2138,23 +2109,27 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 161,
-    "live": true
+    "num": 138,
+    "live": true,
+    "type": "hls",
+    "lon": 78.49
   },
   {
-    "id": "iq-aliraqia",
-    "name": "📡 Al Iraqia News",
-    "city": "巴格达",
-    "country": "IQ",
-    "lat": 33.31,
-    "lng": 44.36,
-    "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
-    "width": 640,
-    "height": 360,
+    "id": "in-abn-andhra",
+    "name": "📡 ABN Andhra Jyoti",
+    "city": "海得拉巴",
+    "country": "IN",
+    "lat": 17.39,
+    "lng": 78.49,
+    "url": "https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8",
+    "width": 1280,
+    "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 162,
-    "live": true
+    "num": 139,
+    "live": true,
+    "type": "hls",
+    "lon": 78.49
   },
   {
     "id": "iq-altaghier",
@@ -2168,23 +2143,27 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 163,
-    "live": true
+    "num": 140,
+    "live": true,
+    "type": "hls",
+    "lon": 44.36
   },
   {
-    "id": "ir-alalam",
-    "name": "📡 Alalam News",
-    "city": "德黑兰",
-    "country": "IR",
-    "lat": 35.69,
-    "lng": 51.42,
-    "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+    "id": "iq-aliraqia",
+    "name": "📡 Al Iraqia News",
+    "city": "巴格达",
+    "country": "IQ",
+    "lat": 33.31,
+    "lng": 44.36,
+    "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
     "width": 640,
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 164,
-    "live": true
+    "num": 141,
+    "live": true,
+    "type": "hls",
+    "lon": 44.36
   },
   {
     "id": "is-akranes2",
@@ -2197,7 +2176,9 @@
     "refreshSec": 15,
     "width": 3072,
     "height": 1728,
-    "num": 165
+    "num": 142,
+    "type": "jpeg",
+    "lon": -22.07
   },
   {
     "id": "is-akureyri2",
@@ -2210,7 +2191,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 166
+    "num": 143,
+    "type": "jpeg",
+    "lon": -18.09
   },
   {
     "id": "is-keflavik",
@@ -2223,7 +2206,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 167
+    "num": 144,
+    "type": "jpeg",
+    "lon": -22.5939999
   },
   {
     "id": "is-reykjavik",
@@ -2236,20 +2221,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 168
-  },
-  {
-    "id": "is-thingvellir",
-    "name": "🇮🇸 Thingvellir, Iceland",
-    "city": "Thingvellir",
-    "country": "IS",
-    "lat": 64.2602997,
-    "lng": -21.1238003,
-    "url": "https://images.webcamgalore.com/14426-current-webcam-Thingvellir.jpg",
-    "refreshSec": 30,
-    "width": 3840,
-    "height": 2160,
-    "num": 169
+    "num": 145,
+    "type": "jpeg",
+    "lon": -21.9076996
   },
   {
     "id": "it-abbadia-san-salvatore",
@@ -2262,7 +2236,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 170
+    "num": 146,
+    "type": "jpeg",
+    "lon": 11.67
   },
   {
     "id": "it-abetone",
@@ -2275,7 +2251,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 171
+    "num": 147,
+    "type": "jpeg",
+    "lon": 10.67
   },
   {
     "id": "je-saint-aubin",
@@ -2288,7 +2266,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 172
+    "num": 148,
+    "type": "jpeg",
+    "lon": -2.17012
   },
   {
     "id": "jo-alsharqiya",
@@ -2302,21 +2282,10 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 173,
-    "live": true
-  },
-  {
-    "id": "jp-kagoshima",
-    "name": "🌋 鹿児島 · 桜島",
-    "city": "Kagoshima",
-    "country": "JP",
-    "lat": 31.56,
-    "lng": 130.56,
-    "url": "https://images.webcamgalore.com/1069-current-webcam-Kagoshima.jpg",
-    "refreshSec": 15,
-    "num": 174,
-    "width": 1920,
-    "height": 1080
+    "num": 149,
+    "live": true,
+    "type": "hls",
+    "lon": 35.93
   },
   {
     "id": "jp-sakurajima",
@@ -2329,7 +2298,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 175
+    "num": 150,
+    "type": "jpeg",
+    "lon": 130.6544037
   },
   {
     "id": "jp-gaki",
@@ -2343,7 +2314,9 @@
     "refreshSec": 15,
     "width": 640,
     "height": 360,
-    "num": 176
+    "num": 151,
+    "type": "hls",
+    "lon": 138.3
   },
   {
     "id": "jp-tokyo",
@@ -2356,22 +2329,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 177
-  },
-  {
-    "id": "jp-tbs",
-    "name": "📺 TBSテレビ",
-    "city": "东京",
-    "country": "JP",
-    "lat": 35.67,
-    "lng": 139.74,
-    "url": "https://tbs5.mov3.co/hls/tbs.m3u8",
-    "width": 640,
-    "height": 360,
-    "streamType": "hls",
-    "refreshSec": 0,
-    "num": 178,
-    "live": true
+    "num": 152,
+    "type": "jpeg",
+    "lon": 139.7810059
   },
   {
     "id": "jp-tvasahi",
@@ -2385,8 +2345,10 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 179,
-    "live": true
+    "num": 153,
+    "live": true,
+    "type": "hls",
+    "lon": 139.75
   },
   {
     "id": "jp-fujitv",
@@ -2400,8 +2362,27 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 180,
-    "live": true
+    "num": 154,
+    "live": true,
+    "type": "hls",
+    "lon": 139.77
+  },
+  {
+    "id": "jp-tbs",
+    "name": "📺 TBSテレビ",
+    "city": "东京",
+    "country": "JP",
+    "lat": 35.67,
+    "lng": 139.74,
+    "url": "https://tbs5.mov3.co/hls/tbs.m3u8",
+    "width": 640,
+    "height": 360,
+    "streamType": "hls",
+    "refreshSec": 0,
+    "num": 155,
+    "live": true,
+    "type": "hls",
+    "lon": 139.74
   },
   {
     "id": "jp-ntv",
@@ -2415,8 +2396,10 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 181,
-    "live": true
+    "num": 156,
+    "live": true,
+    "type": "hls",
+    "lon": 139.76
   },
   {
     "id": "jp-nhkworld",
@@ -2430,7 +2413,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 182
+    "num": 157,
+    "type": "hls",
+    "lon": 140.3
   },
   {
     "id": "ke-africa24en",
@@ -2444,8 +2429,10 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 183,
-    "live": true
+    "num": 158,
+    "live": true,
+    "type": "hls",
+    "lon": 36.82
   },
   {
     "id": "kr-seoul",
@@ -2458,7 +2445,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 184
+    "num": 159,
+    "type": "jpeg",
+    "lon": 126.9779968
   },
   {
     "id": "kr-cjb",
@@ -2472,38 +2461,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 185,
-    "live": true
-  },
-  {
-    "id": "kr-arirangun",
-    "name": "🎬 Arirang UN · K-Culture",
-    "city": "首尔",
-    "country": "KR",
-    "lat": 37.57,
-    "lng": 126.98,
-    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
-    "width": 1920,
-    "height": 1080,
-    "streamType": "hls",
-    "refreshSec": 0,
-    "num": 186,
-    "live": true
-  },
-  {
-    "id": "kr-arirang",
-    "name": "📡 Arirang TV",
-    "city": "首尔",
-    "country": "KR",
-    "lat": 37.57,
-    "lng": 126.98,
-    "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-    "width": 1920,
-    "height": 1080,
-    "streamType": "hls",
-    "refreshSec": 0,
-    "num": 187,
-    "live": true
+    "num": 160,
+    "live": true,
+    "type": "hls",
+    "lon": 127.49
   },
   {
     "id": "kr-cjonstyle",
@@ -2517,8 +2478,44 @@
     "height": 540,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 188,
-    "live": true
+    "num": 161,
+    "live": true,
+    "type": "hls",
+    "lon": 126.98
+  },
+  {
+    "id": "kr-arirangun",
+    "name": "🎬 Arirang UN · K-Culture",
+    "city": "首尔",
+    "country": "KR",
+    "lat": 37.57,
+    "lng": 126.98,
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "width": 1920,
+    "height": 1080,
+    "streamType": "hls",
+    "refreshSec": 0,
+    "num": 162,
+    "live": true,
+    "type": "hls",
+    "lon": 126.98
+  },
+  {
+    "id": "kr-arirang",
+    "name": "📡 Arirang TV",
+    "city": "首尔",
+    "country": "KR",
+    "lat": 37.57,
+    "lng": 126.98,
+    "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "width": 1920,
+    "height": 1080,
+    "streamType": "hls",
+    "refreshSec": 0,
+    "num": 163,
+    "live": true,
+    "type": "hls",
+    "lon": 126.98
   },
   {
     "id": "lt-kaniukai",
@@ -2531,7 +2528,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 189
+    "num": 164,
+    "type": "jpeg",
+    "lon": 25.1
   },
   {
     "id": "lt-neringa",
@@ -2544,7 +2543,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 190
+    "num": 165,
+    "type": "jpeg",
+    "lon": 20.9731998
   },
   {
     "id": "lt-vilnius",
@@ -2557,7 +2558,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 191
+    "num": 166,
+    "type": "jpeg",
+    "lon": 25.28
   },
   {
     "id": "lv-daugavpils",
@@ -2570,33 +2573,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 192
-  },
-  {
-    "id": "lv-jurmala",
-    "name": "🏖️ 🇱🇻 Jurmala",
-    "city": "Jurmala",
-    "country": "LV",
-    "lat": 56.97,
-    "lng": 23.83,
-    "url": "https://images.webcamgalore.com/30858-current-webcam-Jurmala.jpg",
-    "refreshSec": 15,
-    "width": 1920,
-    "height": 1080,
-    "num": 193
-  },
-  {
-    "id": "lv-jurmala-2",
-    "name": "🇱🇻 Jurmala, Latvia",
-    "city": "Jurmala",
-    "country": "LV",
-    "lat": 56.9749985,
-    "lng": 23.7854996,
-    "url": "https://images.webcamgalore.com/32612-current-webcam-Jurmala.jpg",
-    "refreshSec": 30,
-    "width": 1280,
-    "height": 720,
-    "num": 194
+    "num": 167,
+    "type": "jpeg",
+    "lon": 26.53
   },
   {
     "id": "lv-jurmala-3",
@@ -2609,7 +2588,39 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 195
+    "num": 168,
+    "type": "jpeg",
+    "lon": 23.8010998
+  },
+  {
+    "id": "lv-jurmala",
+    "name": "🏖️ 🇱🇻 Jurmala",
+    "city": "Jurmala",
+    "country": "LV",
+    "lat": 56.97,
+    "lng": 23.83,
+    "url": "https://images.webcamgalore.com/30858-current-webcam-Jurmala.jpg",
+    "refreshSec": 15,
+    "width": 1920,
+    "height": 1080,
+    "num": 169,
+    "type": "jpeg",
+    "lon": 23.83
+  },
+  {
+    "id": "lv-jurmala-2",
+    "name": "🇱🇻 Jurmala, Latvia",
+    "city": "Jurmala",
+    "country": "LV",
+    "lat": 56.9749985,
+    "lng": 23.7854996,
+    "url": "https://images.webcamgalore.com/32612-current-webcam-Jurmala.jpg",
+    "refreshSec": 30,
+    "width": 1280,
+    "height": 720,
+    "num": 170,
+    "type": "jpeg",
+    "lon": 23.7854996
   },
   {
     "id": "ma-dakhla",
@@ -2622,7 +2633,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 196
+    "num": 171,
+    "type": "jpeg",
+    "lon": -15.7854996
   },
   {
     "id": "ma-dakhla-2",
@@ -2635,7 +2648,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 197
+    "num": 172,
+    "type": "jpeg",
+    "lon": -15.9354
   },
   {
     "id": "ma-taghazout",
@@ -2648,7 +2663,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 198
+    "num": 173,
+    "type": "jpeg",
+    "lon": -9.7575598
   },
   {
     "id": "mv-filitheyo-north-nilandhe-atoll",
@@ -2661,7 +2678,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 199
+    "num": 174,
+    "type": "jpeg",
+    "lon": 72.9902496
   },
   {
     "id": "mv-huvahendhooariatoll",
@@ -2674,7 +2693,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 200
+    "num": 175,
+    "type": "jpeg",
+    "lon": 72.8
   },
   {
     "id": "mv-komandoo-lhaviyani-atoll",
@@ -2687,7 +2708,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 201
+    "num": 176,
+    "type": "jpeg",
+    "lon": 73.4238968
   },
   {
     "id": "mv-kuramathi-rasdhoo-atoll",
@@ -2700,7 +2723,9 @@
     "refreshSec": 30,
     "width": 2592,
     "height": 1944,
-    "num": 202
+    "num": 177,
+    "type": "jpeg",
+    "lon": 72.969902
   },
   {
     "id": "mx-acapulco",
@@ -2713,7 +2738,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 203
+    "num": 178,
+    "type": "jpeg",
+    "lon": -99.8896713
   },
   {
     "id": "mx-cancun",
@@ -2726,7 +2753,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 204
+    "num": 179,
+    "type": "jpeg",
+    "lon": -86.85
   },
   {
     "id": "mx-cancun-2",
@@ -2739,7 +2768,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 205
+    "num": 180,
+    "type": "jpeg",
+    "lon": -86.7506943
   },
   {
     "id": "mx-acustik",
@@ -2753,8 +2784,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 206,
-    "live": true
+    "num": 181,
+    "live": true,
+    "type": "hls",
+    "lon": -99.13
   },
   {
     "id": "mx-amx",
@@ -2768,8 +2801,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 207,
-    "live": true
+    "num": 182,
+    "live": true,
+    "type": "hls",
+    "lon": -99.66
   },
   {
     "id": "nl-rotterdam",
@@ -2782,7 +2817,9 @@
     "refreshSec": 30,
     "width": 2048,
     "height": 1536,
-    "num": 208
+    "num": 183,
+    "type": "jpeg",
+    "lon": 4.5727201
   },
   {
     "id": "nl-tuitjenhorn",
@@ -2795,7 +2832,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 209
+    "num": 184,
+    "type": "jpeg",
+    "lon": 4.7512441
   },
   {
     "id": "nl-beatfm",
@@ -2809,8 +2848,10 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 210,
-    "live": true
+    "num": 185,
+    "live": true,
+    "type": "hls",
+    "lon": 4.9
   },
   {
     "id": "no-ms-kong-harald",
@@ -2823,7 +2864,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 211
+    "num": 186,
+    "type": "jpeg",
+    "lon": 25.9697399
   },
   {
     "id": "no-arctic",
@@ -2834,22 +2877,11 @@
     "lng": 18.35,
     "url": "https://www.yr.no/webcams/1/2000/setermoen/3.jpg",
     "refreshSec": 20,
-    "num": 212,
-    "width": 1280,
-    "height": 720
-  },
-  {
-    "id": "nz-auckland",
-    "name": "🏙️ 🇳🇿 Auckland · 帆船之都",
-    "city": "Auckland",
-    "country": "NZ",
-    "lat": -36.85,
-    "lng": 174.76,
-    "url": "https://images.webcamgalore.com/38598-current-webcam-Auckland.jpg",
-    "refreshSec": 15,
+    "num": 187,
     "width": 1280,
     "height": 720,
-    "num": 213
+    "type": "jpeg",
+    "lon": 18.35
   },
   {
     "id": "nz-drury",
@@ -2862,7 +2894,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 214
+    "num": 188,
+    "type": "jpeg",
+    "lon": 174.9433746
   },
   {
     "id": "nz-dunedin",
@@ -2875,7 +2909,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 215
+    "num": 189,
+    "type": "jpeg",
+    "lon": 170.5
   },
   {
     "id": "nz-lake-pukaki",
@@ -2888,20 +2924,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 216
-  },
-  {
-    "id": "nz-wellington",
-    "name": "🇳🇿 Wellington, New Zealand",
-    "city": "Wellington",
-    "country": "NZ",
-    "lat": -41.3269997,
-    "lng": 174.8079987,
-    "url": "https://images.webcamgalore.com/37414-current-webcam-Wellington.jpg",
-    "refreshSec": 30,
-    "width": 1280,
-    "height": 720,
-    "num": 217
+    "num": 190,
+    "type": "jpeg",
+    "lon": 170.1
   },
   {
     "id": "nz-bravo",
@@ -2915,8 +2940,10 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 218,
-    "live": true
+    "num": 191,
+    "live": true,
+    "type": "hls",
+    "lon": 174.76
   },
   {
     "id": "pa-panama-canal",
@@ -2929,7 +2956,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 219
+    "num": 192,
+    "type": "jpeg",
+    "lon": -79.6
   },
   {
     "id": "pl-bialka-tatrzanska",
@@ -2942,7 +2971,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 220
+    "num": 193,
+    "type": "jpeg",
+    "lon": 20.1
   },
   {
     "id": "pl-bialka-tatrzanska-2",
@@ -2955,7 +2986,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 221
+    "num": 194,
+    "type": "jpeg",
+    "lon": 20.1074009
   },
   {
     "id": "pl-bukowina-tatrzanska",
@@ -2968,7 +3001,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 222
+    "num": 195,
+    "type": "jpeg",
+    "lon": 20.0942993
   },
   {
     "id": "pl-bydgoszcz",
@@ -2981,20 +3016,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 223
-  },
-  {
-    "id": "pl-leba",
-    "name": "🇵🇱 Leba, Poland",
-    "city": "Leba",
-    "country": "PL",
-    "lat": 54.7680016,
-    "lng": 17.5636997,
-    "url": "https://images.webcamgalore.com/26931-current-webcam-Leba.jpg",
-    "refreshSec": 30,
-    "width": 1920,
-    "height": 1080,
-    "num": 224
+    "num": 196,
+    "type": "jpeg",
+    "lon": 18.01
   },
   {
     "id": "pl-sopot",
@@ -3007,7 +3031,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 225
+    "num": 197,
+    "type": "jpeg",
+    "lon": 18.5681
   },
   {
     "id": "pl-ustka",
@@ -3020,7 +3046,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 226
+    "num": 198,
+    "type": "jpeg",
+    "lon": 16.8658009
   },
   {
     "id": "pl-zawoja",
@@ -3033,7 +3061,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 227
+    "num": 199,
+    "type": "jpeg",
+    "lon": 19.5496998
   },
   {
     "id": "ps-gaza-city",
@@ -3046,7 +3076,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 228
+    "num": 200,
+    "type": "jpeg",
+    "lon": 34.4668007
   },
   {
     "id": "pt-aljezur",
@@ -3059,7 +3091,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 229
+    "num": 201,
+    "type": "jpeg",
+    "lon": -8.8
   },
   {
     "id": "pt-kmusic",
@@ -3073,8 +3107,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 230,
-    "live": true
+    "num": 202,
+    "live": true,
+    "type": "hls",
+    "lon": -9.14
   },
   {
     "id": "qa-alaraby",
@@ -3085,26 +3121,13 @@
     "lng": 51.53,
     "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
     "refreshSec": 0,
-    "num": 231,
+    "num": 203,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "live": true
-  },
-  {
-    "id": "qa-aljazeera",
-    "name": "📡 Al Jazeera 阿拉伯语",
-    "city": "多哈",
-    "country": "QA",
-    "lat": 25.29,
-    "lng": 51.53,
-    "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
-    "width": 640,
-    "height": 360,
-    "streamType": "hls",
-    "refreshSec": 0,
-    "num": 232,
-    "live": true
+    "live": true,
+    "type": "hls",
+    "lon": 51.53
   },
   {
     "id": "qa-ajm",
@@ -3118,8 +3141,27 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 233,
-    "live": true
+    "num": 204,
+    "live": true,
+    "type": "hls",
+    "lon": 51.53
+  },
+  {
+    "id": "qa-aljazeera",
+    "name": "📡 Al Jazeera 阿拉伯语",
+    "city": "多哈",
+    "country": "QA",
+    "lat": 25.29,
+    "lng": 51.53,
+    "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+    "width": 640,
+    "height": 360,
+    "streamType": "hls",
+    "refreshSec": 0,
+    "num": 205,
+    "live": true,
+    "type": "hls",
+    "lon": 51.53
   },
   {
     "id": "re-saint-leu",
@@ -3132,7 +3174,9 @@
     "refreshSec": 15,
     "width": 4926,
     "height": 2463,
-    "num": 234
+    "num": 206,
+    "type": "jpeg",
+    "lon": 55.29
   },
   {
     "id": "re-saint-paul",
@@ -3145,7 +3189,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 235
+    "num": 207,
+    "type": "jpeg",
+    "lon": 55.2206993
   },
   {
     "id": "ro-buzau",
@@ -3158,7 +3204,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 236
+    "num": 208,
+    "type": "jpeg",
+    "lon": 26.82
   },
   {
     "id": "ro-buzau-2",
@@ -3171,7 +3219,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 960,
-    "num": 237
+    "num": 209,
+    "type": "jpeg",
+    "lon": 26.8211002
   },
   {
     "id": "ro-eforie",
@@ -3184,7 +3234,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 238
+    "num": 210,
+    "type": "jpeg",
+    "lon": 28.65
   },
   {
     "id": "ro-vama-veche",
@@ -3197,7 +3249,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 239
+    "num": 211,
+    "type": "jpeg",
+    "lon": 28.5755997
   },
   {
     "id": "ro-alephnews",
@@ -3211,21 +3265,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 240,
-    "live": true
-  },
-  {
-    "id": "ru-kingisepp",
-    "name": "🏰 🇷🇺 Kingisepp",
-    "city": "Kingisepp",
-    "country": "RU",
-    "lat": 59.37,
-    "lng": 28.6,
-    "url": "https://images.webcamgalore.com/30897-current-webcam-Kingisepp.jpg",
-    "refreshSec": 15,
-    "width": 1280,
-    "height": 960,
-    "num": 241
+    "num": 212,
+    "live": true,
+    "type": "hls",
+    "lon": 26.1
   },
   {
     "id": "ru-korotetskaya",
@@ -3238,7 +3281,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 242
+    "num": 213,
+    "type": "jpeg",
+    "lon": 38.5
   },
   {
     "id": "ru-ryazan",
@@ -3251,7 +3296,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 243
+    "num": 214,
+    "type": "jpeg",
+    "lon": 39.7448006
   },
   {
     "id": "ru-360news",
@@ -3262,11 +3309,13 @@
     "lng": 37.62,
     "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
     "refreshSec": 0,
-    "num": 244,
+    "num": 215,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "live": true
+    "live": true,
+    "type": "hls",
+    "lon": 37.62
   },
   {
     "id": "sa-alarabiya",
@@ -3280,8 +3329,10 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 245,
-    "live": true
+    "num": 216,
+    "live": true,
+    "type": "hls",
+    "lon": 46.68
   },
   {
     "id": "se-gothenburg",
@@ -3294,7 +3345,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 246
+    "num": 217,
+    "type": "jpeg",
+    "lon": 11.97
   },
   {
     "id": "sg-cna",
@@ -3308,7 +3361,9 @@
     "refreshSec": 15,
     "width": 640,
     "height": 360,
-    "num": 247
+    "num": 218,
+    "type": "hls",
+    "lon": 103.82
   },
   {
     "id": "si-ljubljana",
@@ -3321,7 +3376,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 248
+    "num": 219,
+    "type": "jpeg",
+    "lon": 14.4708996
   },
   {
     "id": "si-rogla",
@@ -3334,7 +3391,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 249
+    "num": 220,
+    "type": "jpeg",
+    "lon": 15.3366003
   },
   {
     "id": "si-slovenj-gradec",
@@ -3347,7 +3406,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 250
+    "num": 221,
+    "type": "jpeg",
+    "lon": 15.1774998
   },
   {
     "id": "si-velenje",
@@ -3360,7 +3421,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 251
+    "num": 222,
+    "type": "jpeg",
+    "lon": 15.0854998
   },
   {
     "id": "th-bangkok",
@@ -3373,7 +3436,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 252
+    "num": 223,
+    "type": "jpeg",
+    "lon": 100.5
   },
   {
     "id": "th-chiang-mai",
@@ -3386,7 +3451,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 253
+    "num": 224,
+    "type": "jpeg",
+    "lon": 98.99
   },
   {
     "id": "th-phuket",
@@ -3399,7 +3466,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 254
+    "num": 225,
+    "type": "jpeg",
+    "lon": 98.4
   },
   {
     "id": "tr-trthaber",
@@ -3413,20 +3482,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 255
-  },
-  {
-    "id": "tr-antalya",
-    "name": "🇹🇷 Antalya, Turkey",
-    "city": "Antalya",
-    "country": "TR",
-    "lat": 36.9121017,
-    "lng": 31.2050991,
-    "url": "https://images.webcamgalore.com/584-current-webcam-Antalya.jpg",
-    "refreshSec": 30,
-    "width": 1920,
-    "height": 1080,
-    "num": 256
+    "num": 226,
+    "type": "hls",
+    "lon": 32.9
   },
   {
     "id": "tr-antalya-2",
@@ -3439,7 +3497,24 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 257
+    "num": 227,
+    "type": "jpeg",
+    "lon": 30.6611252
+  },
+  {
+    "id": "tr-antalya",
+    "name": "🇹🇷 Antalya, Turkey",
+    "city": "Antalya",
+    "country": "TR",
+    "lat": 36.9121017,
+    "lng": 31.2050991,
+    "url": "https://images.webcamgalore.com/584-current-webcam-Antalya.jpg",
+    "refreshSec": 30,
+    "width": 1920,
+    "height": 1080,
+    "num": 228,
+    "type": "jpeg",
+    "lon": 31.2050991
   },
   {
     "id": "tr-trtworld",
@@ -3453,7 +3528,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 258
+    "num": 229,
+    "type": "hls",
+    "lon": 29.0
   },
   {
     "id": "tr-izmir",
@@ -3466,7 +3543,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 259
+    "num": 230,
+    "type": "jpeg",
+    "lon": 27.1297073
   },
   {
     "id": "tr-side",
@@ -3479,7 +3558,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 260
+    "num": 231,
+    "type": "jpeg",
+    "lon": 31.3644009
   },
   {
     "id": "tr-360tv",
@@ -3493,22 +3574,10 @@
     "height": 360,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 261,
-    "live": true
-  },
-  {
-    "id": "tw-taipei101",
-    "name": "🏙️ 台北101 · 天际线",
-    "city": "台北",
-    "country": "TW",
-    "lat": 25.03,
-    "lng": 121.8,
-    "url": "https://images.webcamgalore.com/35306-current-webcam-Taipei.jpg",
-    "streamType": "jpeg",
-    "refreshSec": 15,
-    "width": 1280,
-    "height": 720,
-    "num": 262
+    "num": 232,
+    "live": true,
+    "type": "hls",
+    "lon": 28.98
   },
   {
     "id": "tw-bltv",
@@ -3522,7 +3591,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 263
+    "num": 233,
+    "type": "hls",
+    "lon": 120.68
   },
   {
     "id": "tw-dali",
@@ -3536,7 +3607,9 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 264
+    "num": 234,
+    "type": "hls",
+    "lon": 120.3
   },
   {
     "id": "ua-kacha",
@@ -3549,7 +3622,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 265
+    "num": 235,
+    "type": "jpeg",
+    "lon": 33.5452995
   },
   {
     "id": "us-hatteras",
@@ -3560,9 +3635,11 @@
     "lng": -75.52,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-capehatteras2nd/latest_full.jpg",
     "refreshSec": 12,
-    "num": 266,
+    "num": 236,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -75.52
   },
   {
     "id": "us-caribbean-princess",
@@ -3575,7 +3652,9 @@
     "refreshSec": 30,
     "width": 1280,
     "height": 720,
-    "num": 267
+    "num": 237,
+    "type": "jpeg",
+    "lon": -71.1466599
   },
   {
     "id": "us-glacier",
@@ -3586,9 +3665,11 @@
     "lng": -114.02,
     "url": "https://www.nps.gov/webcams-glac/ApgarLookout-01.jpg",
     "refreshSec": 15,
-    "num": 268,
+    "num": 238,
     "width": 1920,
-    "height": 1080
+    "height": 1080,
+    "type": "jpeg",
+    "lon": -114.02
   },
   {
     "id": "us-pipeline",
@@ -3599,22 +3680,11 @@
     "lng": -158.05,
     "url": "https://camstills.cdn-surfline.com/us-west-2/hi-banzaipipeline/latest_full.jpg",
     "refreshSec": 10,
-    "num": 269,
+    "num": 239,
     "width": 1280,
-    "height": 720
-  },
-  {
-    "id": "us-waikiki",
-    "name": "🌴 威基基 · 海滩",
-    "city": "Honolulu",
-    "country": "US",
-    "lat": 21.3,
-    "lng": -157.8,
-    "url": "https://camstills.cdn-surfline.com/us-west-2/hi-waikikibeach/latest_full.jpg",
-    "refreshSec": 10,
-    "num": 270,
-    "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -158.05
   },
   {
     "id": "us-alamoana",
@@ -3625,9 +3695,26 @@
     "lng": -157.88,
     "url": "https://camstills.cdn-surfline.com/us-west-2/hi-alamoanabowls/latest_full.jpg",
     "refreshSec": 10,
-    "num": 271,
+    "num": 240,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -157.88
+  },
+  {
+    "id": "us-waikiki",
+    "name": "🌴 威基基 · 海滩",
+    "city": "Honolulu",
+    "country": "US",
+    "lat": 21.3,
+    "lng": -157.8,
+    "url": "https://camstills.cdn-surfline.com/us-west-2/hi-waikikibeach/latest_full.jpg",
+    "refreshSec": 10,
+    "num": 241,
+    "width": 1280,
+    "height": 720,
+    "type": "jpeg",
+    "lon": -157.8
   },
   {
     "id": "us-huntington",
@@ -3638,9 +3725,11 @@
     "lng": -118.15,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-9thstov/latest_full.jpg",
     "refreshSec": 12,
-    "num": 272,
+    "num": 242,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -118.15
   },
   {
     "id": "us-jacksonville",
@@ -3651,9 +3740,11 @@
     "lng": -81.4,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-jaxpierss/latest_full.jpg",
     "refreshSec": 12,
-    "num": 273,
+    "num": 243,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -81.4
   },
   {
     "id": "us-lajolla",
@@ -3664,9 +3755,11 @@
     "lng": -117.25,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-blacksov/latest_full.jpg",
     "refreshSec": 12,
-    "num": 274,
+    "num": 244,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -117.25
   },
   {
     "id": "us-manasquan",
@@ -3677,9 +3770,11 @@
     "lng": -74.1,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-manasquan/latest_full.jpg",
     "refreshSec": 12,
-    "num": 275,
+    "num": 245,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -74.1
   },
   {
     "id": "us-rainier",
@@ -3690,9 +3785,11 @@
     "lng": -121.74,
     "url": "https://www.nps.gov/webcams-mora/east.jpg",
     "refreshSec": 15,
-    "num": 276,
+    "num": 246,
     "width": 1920,
-    "height": 1080
+    "height": 1080,
+    "type": "jpeg",
+    "lon": -121.74
   },
   {
     "id": "us-newsmyrna",
@@ -3703,9 +3800,11 @@
     "lng": -80.93,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-newsmyrna/latest_full.jpg",
     "refreshSec": 12,
-    "num": 277,
+    "num": 247,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -80.93
   },
   {
     "id": "us-rockaway110",
@@ -3716,9 +3815,11 @@
     "lng": -73.7,
     "url": "https://camstills.cdn-surfline.com/us-east-2/ec-rockaway110th/latest_full.jpg",
     "refreshSec": 12,
-    "num": 278,
+    "num": 248,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -73.7
   },
   {
     "id": "us-newport",
@@ -3729,9 +3830,11 @@
     "lng": -117.75,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-boneyardcloseup/latest_full.jpg",
     "refreshSec": 12,
-    "num": 279,
+    "num": 249,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -117.75
   },
   {
     "id": "us-santacruz",
@@ -3742,9 +3845,11 @@
     "lng": -121.97,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-dogpatch/latest_full.jpg",
     "refreshSec": 12,
-    "num": 280,
+    "num": 250,
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "type": "jpeg",
+    "lon": -121.97
   },
   {
     "id": "us-seattle",
@@ -3755,9 +3860,11 @@
     "lng": -122.33,
     "url": "https://cdn.tegna-media.com/king/weather/roofcam1.jpg",
     "refreshSec": 12,
-    "num": 281,
+    "num": 251,
     "width": 1920,
-    "height": 1080
+    "height": 1080,
+    "type": "jpeg",
+    "lon": -122.33
   },
   {
     "id": "us-westport",
@@ -3768,22 +3875,11 @@
     "lng": -124.11,
     "url": "https://camstills.cdn-surfline.com/us-west-2/wc-westport/latest_full.jpg",
     "refreshSec": 12,
-    "num": 282,
+    "num": 252,
     "width": 1280,
-    "height": 720
-  },
-  {
-    "id": "us-yellowstone-mammoth",
-    "name": "🌋 黄石 · 猛犸温泉",
-    "city": "Yellowstone NP",
-    "country": "US",
-    "lat": 44.75,
-    "lng": -110.95,
-    "url": "https://www.nps.gov/webcams-yell/mammoth_arch.jpg",
-    "refreshSec": 15,
-    "num": 283,
-    "width": 1920,
-    "height": 1080
+    "height": 720,
+    "type": "jpeg",
+    "lon": -124.11
   },
   {
     "id": "us-yellowstone-east",
@@ -3794,9 +3890,26 @@
     "lng": -110.5,
     "url": "https://www.nps.gov/webcams-yell/east_in.jpg",
     "refreshSec": 15,
-    "num": 284,
+    "num": 253,
     "width": 1920,
-    "height": 1080
+    "height": 1080,
+    "type": "jpeg",
+    "lon": -110.5
+  },
+  {
+    "id": "us-yellowstone-mammoth",
+    "name": "🌋 黄石 · 猛犸温泉",
+    "city": "Yellowstone NP",
+    "country": "US",
+    "lat": 44.75,
+    "lng": -110.95,
+    "url": "https://www.nps.gov/webcams-yell/mammoth_arch.jpg",
+    "refreshSec": 15,
+    "num": 254,
+    "width": 1920,
+    "height": 1080,
+    "type": "jpeg",
+    "lon": -110.95
   },
   {
     "id": "us-americasvoice",
@@ -3807,11 +3920,13 @@
     "lng": -77.04,
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
     "refreshSec": 0,
-    "num": 285,
+    "num": 255,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "live": true
+    "live": true,
+    "type": "hls",
+    "lon": -77.04
   },
   {
     "id": "us-cbsnews",
@@ -3825,7 +3940,26 @@
     "refreshSec": 15,
     "width": 1280,
     "height": 720,
-    "num": 286
+    "num": 256,
+    "type": "hls",
+    "lon": -77.04
+  },
+  {
+    "id": "us-30atv",
+    "name": "🏖️ 30A TV · 佛罗里达海滩",
+    "city": "圣罗莎海滩",
+    "country": "US",
+    "lat": 30.33,
+    "lng": -86.22,
+    "url": "https://30a-tv.com/ln.m3u8",
+    "refreshSec": 0,
+    "num": 257,
+    "width": 640,
+    "height": 360,
+    "streamType": "hls",
+    "live": true,
+    "type": "hls",
+    "lon": -86.22
   },
   {
     "id": "us-30a-gh",
@@ -3839,23 +3973,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 287,
-    "live": true
-  },
-  {
-    "id": "us-30atv",
-    "name": "🏖️ 30A TV · 佛罗里达海滩",
-    "city": "圣罗莎海滩",
-    "country": "US",
-    "lat": 30.33,
-    "lng": -86.22,
-    "url": "https://30a-tv.com/ln.m3u8",
-    "refreshSec": 0,
-    "num": 288,
-    "width": 640,
-    "height": 360,
-    "streamType": "hls",
-    "live": true
+    "num": 258,
+    "live": true,
+    "type": "hls",
+    "lon": -86.22
   },
   {
     "id": "us-tubi-abc27",
@@ -3869,8 +3990,10 @@
     "height": 1080,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 289,
-    "live": true
+    "num": 259,
+    "live": true,
+    "type": "hls",
+    "lon": -84.28
   },
   {
     "id": "us-cbs-baltimore",
@@ -3884,8 +4007,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 290,
-    "live": true
+    "num": 260,
+    "live": true,
+    "type": "hls",
+    "lon": -76.61
   },
   {
     "id": "us-tubi-abc2",
@@ -3896,11 +4021,13 @@
     "lng": -76.61,
     "url": "https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8",
     "refreshSec": 0,
-    "num": 291,
+    "num": 261,
     "width": 1920,
     "height": 1080,
     "streamType": "hls",
-    "live": true
+    "live": true,
+    "type": "hls",
+    "lon": -76.61
   },
   {
     "id": "us-cbs-detroit",
@@ -3914,8 +4041,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 292,
-    "live": true
+    "num": 262,
+    "live": true,
+    "type": "hls",
+    "lon": -83.05
   },
   {
     "id": "us-tubi-abc9",
@@ -3926,11 +4055,13 @@
     "lng": -71.46,
     "url": "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8",
     "refreshSec": 0,
-    "num": 293,
+    "num": 263,
     "width": 1280,
     "height": 720,
     "streamType": "hls",
-    "live": true
+    "live": true,
+    "type": "hls",
+    "lon": -71.46
   },
   {
     "id": "us-cbs-sacramento",
@@ -3944,8 +4075,10 @@
     "height": 720,
     "streamType": "hls",
     "refreshSec": 0,
-    "num": 294,
-    "live": true
+    "num": 264,
+    "live": true,
+    "type": "hls",
+    "lon": -121.49
   },
   {
     "id": "vi-cruz-bay-saint-john",
@@ -3958,7 +4091,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 960,
-    "num": 295
+    "num": 265,
+    "type": "jpeg",
+    "lon": -64.7957993
   },
   {
     "id": "vn-da-nang",
@@ -3971,7 +4106,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 296
+    "num": 266,
+    "type": "jpeg",
+    "lon": 108.2460022
   },
   {
     "id": "vn-phan-thiet",
@@ -3984,7 +4121,9 @@
     "refreshSec": 30,
     "width": 1920,
     "height": 1080,
-    "num": 297
+    "num": 267,
+    "type": "jpeg",
+    "lon": 108.1930008
   },
   {
     "id": "za-capetown",
@@ -3998,7 +4137,9 @@
     "refreshSec": 15,
     "width": 1920,
     "height": 1080,
-    "num": 298
+    "num": 268,
+    "type": "jpeg",
+    "lon": 18.42
   },
   {
     "id": "za-durban",
@@ -4012,6 +4153,8 @@
     "refreshSec": 15,
     "width": 3840,
     "height": 2160,
-    "num": 299
+    "num": 269,
+    "type": "jpeg",
+    "lon": 31.03
   }
 ]
